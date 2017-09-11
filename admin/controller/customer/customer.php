@@ -1388,6 +1388,12 @@ class ControllerCustomerCustomer extends Controller {
 		$this->response->setOutput($this->load->view('customer/customer_ip', $data));
 	}
 
+    public function import(){
+        $this->load->language('customer/customer');
+
+        $this->load->model('customer/customer');
+        $this->load->view('customer/customer_import');
+    }
 	public function autocomplete() {
 		$json = array();
 

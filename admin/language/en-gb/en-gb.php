@@ -99,6 +99,7 @@ $_['button_category_add']           = 'Add Category';
 $_['button_order']                  = 'View Order';
 $_['button_order_recurring']        = 'View Recurring Order';
 $_['button_buy']                    = 'Buy';
+$_['button_select']                 = 'Seletct';
 
 // Tab
 $_['tab_affiliate']                 = 'Affiliate';
@@ -143,6 +144,7 @@ $_['tab_activity']                  = 'Recent Activity';
 $_['tab_recurring']                 = 'Recurring';
 $_['tab_action']                    = 'Action';
 $_['tab_google']                    = 'Google';
+$_['tab_import']                    = 'Import';
 
 // Error
 $_['error_exception']               = 'Error Code(%s): %s in %s on line %s';

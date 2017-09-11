@@ -32,6 +32,7 @@
             <li><a href="#tab-transaction" data-toggle="tab">{{ tab_transaction }}</a></li>
             <li><a href="#tab-reward" data-toggle="tab">{{ tab_reward }}</a></li>
             <li><a href="#tab-ip" data-toggle="tab">{{ tab_ip }}</a></li>
+            <li><a href="#tab-import" data-toggle="tab">{{ tab_import }}</a></li>
             {% endif %}
           </ul>
           <div class="tab-content">
@@ -884,6 +885,12 @@
               <fieldset>
                 <legend>{{ text_ip }}</legend>
                 <div id="ip"></div>
+              </fieldset>
+            </div>
+            <div class="tab-pane" id="tab-import">
+              <fieldset>
+                <legend>{{ text_import }} <b>({{ firstname }} {{ lastname }})</b></legend>
+                <button type="file" form="form-customer" data-toggle="tooltip" title="{{ button_select }}" class="btn btn-primary"><i class="fa fa-save"></i> Select(.csv) File</button>
               </fieldset>
             </div>
           </div>

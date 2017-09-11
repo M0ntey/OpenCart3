@@ -27,6 +27,7 @@ $_['text_ip']                   = 'IP';
 $_['text_option']               = 'Options';
 $_['text_login']                = 'Login into Store';
 $_['text_unlock']               = 'Unlock Account';
+$_['text_import']               = 'Special price list for customer';
 
 // Column
 $_['column_name']               = 'Customer Name';
