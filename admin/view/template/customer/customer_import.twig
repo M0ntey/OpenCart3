@@ -1,0 +1,44 @@
+<br><br>
+<p>{{ text_import_by }} {{ imports.date_added }} By <b>{{ imports.user_id }}</b></p>
+<br><br>
+<div class="table-responsive">
+    <table class="table table-bordered table-hover">
+        <thead>
+        <tr>
+            <td class="text-right">{{ column_product_name }}</td>
+            <td class="text-right">{{ column_product_ean_code }}</td>
+            <td class="text-right">{{ column_special_price }}</td>
+            <td class="text-right">{{ column_date_added }}</td>
+            <td class="text-right">{{ column_action }}</td>
+        </tr>
+        </thead>
+        <tbody>
+        {% if imports %}
+            {% for import in imports %}
+                <tr>
+                    <td class="text-right"><a href="{{ import.product_link }}">{{ import.title }}</a></td>
+                    <td class="text-right">{{ import.ean_code }}</td>
+                    <td class="text-right">{{ import.price }}</td>
+                    <td class="text-right">{{ import.date_added }}</td>
+                    <td class="text-right">
+                        <button data-toggle="tooltip" title="{{ button_edit }}" class="btn btn-primary">
+                            <i class="fa fa-pencil"></i>
+                        </button>
+                        <a href="{{ deleteImp }}&id={{ import.id }}#tab-import" data-toggle="tooltip"
+                           title="{{ button_delete }}"
+                           class="btn btn-danger"><i class="fa fa-trash-o"></i></a>
+                    </td>
+                </tr>
+            {% endfor %}
+        {% else %}
+            <tr>
+                <td class="text-center" colspan="2">{{ text_no_results }}</td>
+            </tr>
+        {% endif %}
+        </tbody>
+    </table>
+</div>
+<div class="row">
+    <div class="col-sm-6 text-left">{{ pagination }}</div>
+    <div class="col-sm-6 text-right">{{ results }}</div>
+</div>

@@ -28,6 +28,8 @@ $_['text_option']               = 'Options';
 $_['text_login']                = 'Login into Store';
 $_['text_unlock']               = 'Unlock Account';
 $_['text_import']               = 'Special price list for customer';
+$_['text_import_by']            = 'Latest import:';
+
 
 // Column
 $_['column_name']               = 'Customer Name';
@@ -42,6 +44,9 @@ $_['column_points']             = 'Points';
 $_['column_ip']                 = 'IP';
 $_['column_total']              = 'Total Accounts';
 $_['column_action']             = 'Action';
+$_['column_product_name']       = 'Product name';
+$_['column_product_ean_code']   = 'Product EAN Code';
+$_['column_special_price']      = 'Special Price (EUR)';
 
 // Entry
 $_['entry_customer_group']      = 'Customer Group';
