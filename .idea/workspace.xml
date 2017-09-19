@@ -9,54 +9,206 @@
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
+  <component name="DatabaseView">
+    <option name="SHOW_INTERMEDIATE" value="true" />
+    <option name="GROUP_SCHEMA" value="true" />
+    <option name="GROUP_CONTENTS" value="false" />
+    <option name="SORT_POSITIONED" value="false" />
+    <option name="SHOW_TABLE_DETAILS" value="true" />
+    <option name="SHOW_EMPTY_GROUPS" value="false" />
+    <option name="AUTO_SCROLL_FROM_SOURCE" value="false" />
+    <expand />
+    <select />
+  </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file leaf-file-name="customer_form.twig" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/admin/view/template/customer/customer_form.twig">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="481">
-              <caret line="1816" column="32" lean-forward="false" selection-start-line="1816" selection-start-column="32" selection-end-line="1816" selection-end-column="32" />
+            <state relative-caret-position="1912">
+              <caret line="1846" column="35" lean-forward="true" selection-start-line="1846" selection-start-column="35" selection-end-line="1846" selection-end-column="35" />
               <folding>
                 <element signature="n#script#0;n#div#0;n#!!top" expanded="false" />
                 <element signature="n#script#1;n#div#0;n#!!top" expanded="false" />
                 <element signature="n#script#2;n#div#0;n#!!top" expanded="false" />
                 <element signature="n#script#3;n#div#0;n#!!top" expanded="false" />
+                <element signature="e#136981#138889#0#HTML" expanded="false" />
                 <element signature="n#script#4;n#div#0;n#!!top" expanded="false" />
-                <element signature="e#137791#137878#0#HTML" expanded="false" />
-                <element signature="e#138068#139827#0#HTML" expanded="false" />
+                <element signature="e#139087#139174#0#HTML" expanded="false" />
                 <element signature="n#script#5;n#div#0;n#!!top" expanded="false" />
-                <element signature="e#139967#140058#0#HTML" expanded="false" />
                 <element signature="n#script#6;n#div#0;n#!!top" expanded="false" />
-                <element signature="e#142360#142446#0#HTML" expanded="false" />
-                <element signature="e#142633#144543#0#HTML" expanded="false" />
-                <element signature="e#144612#144694#0#HTML" expanded="false" />
-                <element signature="e#144943#147124#0#HTML" expanded="false" />
-                <element signature="e#147162#147243#0#HTML" expanded="false" />
-                <element signature="e#147285#147393#0#HTML" expanded="false" />
-                <element signature="e#147431#147512#0#HTML" expanded="false" />
-                <element signature="e#147592#148451#0#Twig" expanded="false" />
-                <element signature="e#148529#149098#0#HTML" expanded="false" />
-                <element signature="e#149179#149754#0#HTML" expanded="false" />
+                <element signature="e#148888#149747#0#Twig" expanded="false" />
                 <element signature="n#script#8;n#div#0;n#!!top" expanded="false" />
-                <marker date="1505331383460" expanded="true" signature="139020:139027" ph="×" />
-                <marker date="1505331383460" expanded="true" signature="139330:139337" ph="×" />
-                <marker date="1505331383460" expanded="true" signature="141323:141330" ph="×" />
-                <marker date="1505331383460" expanded="true" signature="141637:141644" ph="×" />
-                <marker date="1505331383460" expanded="true" signature="143666:143673" ph="×" />
-                <marker date="1505331383460" expanded="true" signature="143975:143982" ph="×" />
-                <marker date="1505331383460" expanded="true" signature="145107:145121" ph="..." />
-                <marker date="1505331383460" expanded="true" signature="150294:150308" ph="..." />
+                <marker date="1505844259409" expanded="true" signature="140316:140323" ph="×" />
+                <marker date="1505844259409" expanded="true" signature="140626:140633" ph="×" />
+                <marker date="1505844259409" expanded="true" signature="142619:142626" ph="×" />
+                <marker date="1505844259409" expanded="true" signature="142933:142940" ph="×" />
+                <marker date="1505844259409" expanded="true" signature="144962:144969" ph="×" />
+                <marker date="1505844259409" expanded="true" signature="145271:145278" ph="×" />
+                <marker date="1505844259409" expanded="true" signature="146403:146417" ph="..." />
+                <marker date="1505844259409" expanded="true" signature="151634:151648" ph="..." />
               </folding>
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="customer.php" pinned="false" current-in-tab="false">
+      <file leaf-file-name="customer.php" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/admin/controller/customer/customer.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="433">
-              <caret line="1433" column="69" lean-forward="false" selection-start-line="1433" selection-start-column="69" selection-end-line="1433" selection-end-column="69" />
-              <folding />
+            <state relative-caret-position="264">
+              <caret line="1495" column="108" lean-forward="false" selection-start-line="1495" selection-start-column="108" selection-end-line="1495" selection-end-column="108" />
+              <folding>
+                <element signature="n#autocomplete#0;n#ControllerCustomerCustomer#0;n#!!top" expanded="false" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="product.php" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/admin/model/catalog/product.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="272">
+              <caret line="357" column="47" lean-forward="true" selection-start-line="357" selection-start-column="47" selection-end-line="357" selection-end-column="47" />
+              <folding>
+                <element signature="n#addProduct#0;n#ModelCatalogProduct#0;n#!!top" expanded="false" />
+                <element signature="n#editProduct#0;n#ModelCatalogProduct#0;n#!!top" expanded="false" />
+                <element signature="n#copyProduct#0;n#ModelCatalogProduct#0;n#!!top" expanded="false" />
+                <element signature="n#deleteProduct#0;n#ModelCatalogProduct#0;n#!!top" expanded="false" />
+                <element signature="n#getProducts#0;n#ModelCatalogProduct#0;n#!!top" expanded="false" />
+                <element signature="n#getProductsByCategoryId#0;n#ModelCatalogProduct#0;n#!!top" expanded="false" />
+                <element signature="n#getProductDescriptions#0;n#ModelCatalogProduct#0;n#!!top" expanded="false" />
+                <element signature="n#getProductCategories#0;n#ModelCatalogProduct#0;n#!!top" expanded="false" />
+                <element signature="n#getProductFilters#0;n#ModelCatalogProduct#0;n#!!top" expanded="false" />
+                <element signature="n#getProductAttributes#0;n#ModelCatalogProduct#0;n#!!top" expanded="false" />
+                <element signature="n#getProductOptions#0;n#ModelCatalogProduct#0;n#!!top" expanded="false" />
+                <element signature="n#getProductOptionValue#0;n#ModelCatalogProduct#0;n#!!top" expanded="false" />
+                <element signature="n#getProductImages#0;n#ModelCatalogProduct#0;n#!!top" expanded="false" />
+                <element signature="n#getProductDiscounts#0;n#ModelCatalogProduct#0;n#!!top" expanded="false" />
+                <element signature="n#getProductSpecials#0;n#ModelCatalogProduct#0;n#!!top" expanded="false" />
+                <element signature="n#getProductRewards#0;n#ModelCatalogProduct#0;n#!!top" expanded="false" />
+                <element signature="n#getProductDownloads#0;n#ModelCatalogProduct#0;n#!!top" expanded="false" />
+                <element signature="n#getProductSeoUrls#0;n#ModelCatalogProduct#0;n#!!top" expanded="false" />
+                <element signature="n#getProductLayouts#0;n#ModelCatalogProduct#0;n#!!top" expanded="false" />
+                <element signature="n#getProductRelated#0;n#ModelCatalogProduct#0;n#!!top" expanded="false" />
+                <element signature="n#getRecurrings#0;n#ModelCatalogProduct#0;n#!!top" expanded="false" />
+                <marker date="1505847976062" expanded="true" signature="105:1475" ph="INSERT INTO ${DB_PREFIX}product... " />
+                <marker date="1505847976062" expanded="true" signature="1805:2316" ph="INSERT INTO ${DB_PREFIX}product_description... " />
+                <marker date="1505847976062" expanded="true" signature="2437:2563" ph="INSERT INTO ${DB_PREFIX}product_to_store... " />
+                <marker date="1505847976062" expanded="true" signature="2780:2941" ph="DELETE FROM " />
+                <marker date="1505847976062" expanded="true" signature="3089:3296" ph="DELETE FROM " />
+                <marker date="1505847976062" expanded="true" signature="3325:3601" ph="INSERT INTO ${DB_PREFIX}product_attribute... " />
+                <marker date="1505847976062" expanded="true" signature="3973:4172" ph="INSERT INTO ${DB_PREFIX}product_option... " />
+                <marker date="1505847976062" expanded="true" signature="4337:5165" ph="INSERT INTO ${DB_PREFIX}product_option_value... " />
+                <marker date="1505847976062" expanded="true" signature="5220:5482" ph="INSERT INTO ${DB_PREFIX}product_option... " />
+                <marker date="1505847976062" expanded="true" signature="5623:5800" ph="INSERT INTO `${DB_PREFIX}product_recurring`... " />
+                <marker date="1505847976062" expanded="true" signature="5976:6453" ph="INSERT INTO ${DB_PREFIX}product_discount... " />
+                <marker date="1505847976062" expanded="true" signature="6590:7004" ph="INSERT INTO ${DB_PREFIX}product_special... " />
+                <marker date="1505847976062" expanded="true" signature="7135:7341" ph="INSERT INTO ${DB_PREFIX}product_image... " />
+                <marker date="1505847976062" expanded="true" signature="7476:7611" ph="INSERT INTO ${DB_PREFIX}product_to_download... " />
+                <marker date="1505847976062" expanded="true" signature="7746:7881" ph="INSERT INTO ${DB_PREFIX}product_to_category... " />
+                <marker date="1505847976062" expanded="true" signature="8010:8136" ph="INSERT INTO ${DB_PREFIX}product_filter... " />
+                <marker date="1505847976062" expanded="true" signature="8268:8402" ph="DELETE FROM " />
+                <marker date="1505847976062" expanded="true" signature="8428:8557" ph="INSERT INTO ${DB_PREFIX}product_related... " />
+                <marker date="1505847976062" expanded="true" signature="8583:8717" ph="DELETE FROM " />
+                <marker date="1505847976062" expanded="true" signature="8743:8872" ph="INSERT INTO ${DB_PREFIX}product_related... " />
+                <marker date="1505847976062" expanded="true" signature="9075:9268" ph="INSERT INTO ${DB_PREFIX}product_reward... " />
+                <marker date="1505847976062" expanded="true" signature="9517:9732" ph="INSERT INTO ${DB_PREFIX}seo_url... " />
+                <marker date="1505847976062" expanded="true" signature="9889:10055" ph="INSERT INTO ${DB_PREFIX}product_to_layout... " />
+                <marker date="1505847976062" expanded="true" signature="11813:11907" ph="DELETE FROM " />
+                <marker date="1505847976062" expanded="true" signature="12002:12513" ph="INSERT INTO ${DB_PREFIX}product_description... " />
+                <marker date="1505847976062" expanded="true" signature="12542:12633" ph="DELETE FROM " />
+                <marker date="1505847976062" expanded="true" signature="12750:12876" ph="INSERT INTO ${DB_PREFIX}product_to_store... " />
+                <marker date="1505847976062" expanded="true" signature="12910:13002" ph="DELETE FROM " />
+                <marker date="1505847976062" expanded="true" signature="13211:13372" ph="DELETE FROM " />
+                <marker date="1505847976062" expanded="true" signature="13520:13796" ph="INSERT INTO ${DB_PREFIX}product_attribute... " />
+                <marker date="1505847976062" expanded="true" signature="13843:13932" ph="DELETE FROM " />
+                <marker date="1505847976062" expanded="true" signature="13956:14051" ph="DELETE FROM " />
+                <marker date="1505847976062" expanded="true" signature="14401:14673" ph="INSERT INTO ${DB_PREFIX}product_option... " />
+                <marker date="1505847976062" expanded="true" signature="14838:15757" ph="INSERT INTO ${DB_PREFIX}product_option_value... " />
+                <marker date="1505847976062" expanded="true" signature="15812:16147" ph="INSERT INTO ${DB_PREFIX}product_option... " />
+                <marker date="1505847976062" expanded="true" signature="16187:16255" ph="DELETE FROM " />
+                <marker date="1505847976062" expanded="true" signature="16408:16593" ph="INSERT INTO `${DB_PREFIX}product_recurring`... " />
+                <marker date="1505847976062" expanded="true" signature="16671:16762" ph="DELETE FROM " />
+                <marker date="1505847976062" expanded="true" signature="16893:17370" ph="INSERT INTO ${DB_PREFIX}product_discount... " />
+                <marker date="1505847976062" expanded="true" signature="17404:17494" ph="DELETE FROM " />
+                <marker date="1505847976062" expanded="true" signature="17622:18036" ph="INSERT INTO ${DB_PREFIX}product_special... " />
+                <marker date="1505847976062" expanded="true" signature="18070:18158" ph="DELETE FROM " />
+                <marker date="1505847976062" expanded="true" signature="18280:18486" ph="INSERT INTO ${DB_PREFIX}product_image... " />
+                <marker date="1505847976062" expanded="true" signature="18520:18614" ph="DELETE FROM " />
+                <marker date="1505847976062" expanded="true" signature="18740:18875" ph="INSERT INTO ${DB_PREFIX}product_to_download... " />
+                <marker date="1505847976062" expanded="true" signature="18909:19003" ph="DELETE FROM " />
+                <marker date="1505847976062" expanded="true" signature="19129:19264" ph="INSERT INTO ${DB_PREFIX}product_to_category... " />
+                <marker date="1505847976062" expanded="true" signature="19298:19387" ph="DELETE FROM " />
+                <marker date="1505847976062" expanded="true" signature="19507:19633" ph="INSERT INTO ${DB_PREFIX}product_filter... " />
+                <marker date="1505847976062" expanded="true" signature="19667:19757" ph="DELETE FROM " />
+                <marker date="1505847976062" expanded="true" signature="19781:19871" ph="DELETE FROM " />
+                <marker date="1505847976062" expanded="true" signature="19994:20128" ph="DELETE FROM " />
+                <marker date="1505847976062" expanded="true" signature="20154:20283" ph="INSERT INTO ${DB_PREFIX}product_related... " />
+                <marker date="1505847976062" expanded="true" signature="20309:20443" ph="DELETE FROM " />
+                <marker date="1505847976062" expanded="true" signature="20469:20598" ph="INSERT INTO ${DB_PREFIX}product_related... " />
+                <marker date="1505847976062" expanded="true" signature="20632:20721" ph="DELETE FROM " />
+                <marker date="1505847976062" expanded="true" signature="20897:21081" ph="INSERT INTO ${DB_PREFIX}product_reward... " />
+                <marker date="1505847976062" expanded="true" signature="21136:21224" ph="DELETE FROM " />
+                <marker date="1505847976062" expanded="true" signature="21444:21659" ph="INSERT INTO ${DB_PREFIX}seo_url... " />
+                <marker date="1505847976062" expanded="true" signature="21708:21800" ph="DELETE FROM " />
+                <marker date="1505847976062" expanded="true" signature="21933:22099" ph="INSERT INTO ${DB_PREFIX}product_to_layout... " />
+                <marker date="1505847976062" expanded="true" signature="22225:22322" ph="SELECT DISTI... ${DB_PREFIX}" />
+                <marker date="1505847976062" expanded="true" signature="23585:23667" ph="DELETE FROM " />
+                <marker date="1505847976062" expanded="true" signature="23691:23783" ph="DELETE FROM " />
+                <marker date="1505847976062" expanded="true" signature="23807:23901" ph="DELETE FROM " />
+                <marker date="1505847976062" expanded="true" signature="23925:24016" ph="DELETE FROM " />
+                <marker date="1505847976062" expanded="true" signature="24040:24129" ph="DELETE FROM " />
+                <marker date="1505847976062" expanded="true" signature="24153:24241" ph="DELETE FROM " />
+                <marker date="1505847976062" expanded="true" signature="24265:24354" ph="DELETE FROM " />
+                <marker date="1505847976062" expanded="true" signature="24378:24473" ph="DELETE FROM " />
+                <marker date="1505847976062" expanded="true" signature="24497:24587" ph="DELETE FROM " />
+                <marker date="1505847976062" expanded="true" signature="24611:24701" ph="DELETE FROM " />
+                <marker date="1505847976062" expanded="true" signature="24725:24814" ph="DELETE FROM " />
+                <marker date="1505847976062" expanded="true" signature="24838:24928" ph="DELETE FROM " />
+                <marker date="1505847976062" expanded="true" signature="24952:25046" ph="DELETE FROM " />
+                <marker date="1505847976062" expanded="true" signature="25070:25164" ph="DELETE FROM " />
+                <marker date="1505847976062" expanded="true" signature="25188:25280" ph="DELETE FROM " />
+                <marker date="1505847976062" expanded="true" signature="25304:25395" ph="DELETE FROM " />
+                <marker date="1505847976062" expanded="true" signature="25419:25485" ph="DELETE FROM " />
+                <marker date="1505847976062" expanded="true" signature="25528:25609" ph="DELETE FROM " />
+                <marker date="1505847976062" expanded="true" signature="25633:25721" ph="DELETE FROM " />
+                <marker date="1505847976062" expanded="true" signature="25745:25834" ph="DELETE FROM " />
+                <marker date="1505847976062" expanded="true" signature="25950:26208" ph="SELECT DISTI... ${DB_PREFIX}" />
+                <marker date="1505847976062" expanded="true" signature="26316:26360" ph="SELECT * FRO... ${DB_PREFIX}" />
+                <marker date="1505847976062" expanded="true" signature="26316:26368" ph="SELECT * FRO... ${DB_PREFIX}" />
+                <marker date="1505847976062" expanded="true" signature="26316:26382" ph="SELECT * FRO... ${DB_PREFIX}" />
+                <marker date="1505847976062" expanded="true" signature="26477:26680" ph="SELECT * FRO... ${DB_PREFIX}" />
+                <marker date="1505847976062" expanded="true" signature="28196:28556" ph="SELECT * FRO... ${DB_PREFIX}" />
+                <marker date="1505847976062" expanded="true" signature="28712:28808" ph="SELECT * FRO... ${DB_PREFIX}" />
+                <marker date="1505847976062" expanded="true" signature="29372:29468" ph="SELECT * FRO... ${DB_PREFIX}" />
+                <marker date="1505847976062" expanded="true" signature="29721:29812" ph="SELECT * FRO... ${DB_PREFIX}" />
+                <marker date="1505847976062" expanded="true" signature="30083:30210" ph="SELECT attri... ${DB_PREFIX}" />
+                <marker date="1505847976062" expanded="true" signature="30393:30556" ph="SELECT * FRO... ${DB_PREFIX}" />
+                <marker date="1505847976062" expanded="true" signature="31171:31500" ph="SELECT * FRO... ${DB_PREFIX}product_option" />
+                <marker date="1505847976062" expanded="true" signature="31659:31911" ph="SELECT * FRO... ${DB_PREFIX}" />
+                <marker date="1505847976062" expanded="true" signature="33363:33958" ph="SELECT pov.o... ${DB_PREFIX}" />
+                <marker date="1505847976062" expanded="true" signature="34067:34181" ph="SELECT * FRO... ${DB_PREFIX}" />
+                <marker date="1505847976062" expanded="true" signature="34294:34422" ph="SELECT * FRO... ${DB_PREFIX}" />
+                <marker date="1505847976062" expanded="true" signature="34534:34651" ph="SELECT * FRO... ${DB_PREFIX}" />
+                <marker date="1505847976062" expanded="true" signature="34797:34888" ph="SELECT * FRO... ${DB_PREFIX}" />
+                <marker date="1505847976062" expanded="true" signature="35183:35279" ph="SELECT * FRO... ${DB_PREFIX}" />
+                <marker date="1505847976062" expanded="true" signature="35530:35623" ph="SELECT * FRO... ${DB_PREFIX}" />
+                <marker date="1505847976062" expanded="true" signature="35871:35961" ph="SELECT * FRO... ${DB_PREFIX}" />
+                <marker date="1505847976062" expanded="true" signature="36252:36346" ph="SELECT * FRO... ${DB_PREFIX}" />
+                <marker date="1505847976062" expanded="true" signature="36613:36705" ph="SELECT * FRO... ${DB_PREFIX}" />
+                <marker date="1505847976062" expanded="true" signature="36916:37012" ph="SELECT * FRO... ${DB_PREFIX}product_recurring" />
+                <marker date="1505847976062" expanded="true" signature="37107:37267" ph="SELECT COUNT... ${DB_PREFIX}" />
+                <marker date="1505847976062" expanded="true" signature="38242:38346" ph="SELECT COUNT... ${DB_PREFIX}" />
+                <marker date="1505847976062" expanded="true" signature="38484:38594" ph="SELECT COUNT... ${DB_PREFIX}" />
+                <marker date="1505847976062" expanded="true" signature="38732:38842" ph="SELECT COUNT... ${DB_PREFIX}" />
+                <marker date="1505847976062" expanded="true" signature="38980:39090" ph="SELECT COUNT... ${DB_PREFIX}" />
+                <marker date="1505847976062" expanded="true" signature="39221:39335" ph="SELECT COUNT... ${DB_PREFIX}" />
+                <marker date="1505847976062" expanded="true" signature="39474:39584" ph="SELECT COUNT... ${DB_PREFIX}" />
+                <marker date="1505847976062" expanded="true" signature="39717:39831" ph="SELECT COUNT... ${DB_PREFIX}" />
+                <marker date="1505847976062" expanded="true" signature="39958:40063" ph="SELECT COUNT... ${DB_PREFIX}" />
+                <marker date="1505847976062" expanded="true" signature="40194:40308" ph="SELECT COUNT... ${DB_PREFIX}" />
+                <marker date="1505847976062" expanded="true" signature="40435:40543" ph="SELECT COUNT... ${DB_PREFIX}" />
+              </folding>
             </state>
           </provider>
         </entry>
@@ -64,84 +216,77 @@
       <file leaf-file-name="customer.php" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/admin/model/customer/customer.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="333">
-              <caret line="528" column="197" lean-forward="false" selection-start-line="528" selection-start-column="197" selection-end-line="528" selection-end-column="197" />
+            <state relative-caret-position="707">
+              <caret line="558" column="44" lean-forward="false" selection-start-line="558" selection-start-column="20" selection-end-line="558" selection-end-column="44" />
               <folding>
-                <marker date="1505333040132" expanded="true" signature="124:939" ph="INSERT INTO ${DB_PREFIX}customer... " />
-                <marker date="1505333040132" expanded="true" signature="1128:1922" ph="INSERT INTO ${DB_PREFIX}address... " />
-                <marker date="1505333040132" expanded="true" signature="2323:3489" ph="INSERT INTO ${DB_PREFIX}customer_affiliate... " />
-                <marker date="1505333040132" expanded="true" signature="4667:4751" ph="DELETE FROM " />
-                <marker date="1505333040132" expanded="true" signature="4892:5740" ph="INSERT INTO ${DB_PREFIX}address... " />
-                <marker date="1505333040132" expanded="true" signature="6141:7162" ph="REPLACE INTO... ${DB_PREFIX}" />
-                <marker date="1505333040132" expanded="true" signature="7495:7580" ph="DELETE FROM " />
-                <marker date="1505333040132" expanded="true" signature="7612:7706" ph="DELETE FROM " />
-                <marker date="1505333040132" expanded="true" signature="7738:7833" ph="DELETE FROM " />
-                <marker date="1505333040132" expanded="true" signature="7865:7959" ph="DELETE FROM " />
-                <marker date="1505333040132" expanded="true" signature="7991:8083" ph="DELETE FROM " />
-                <marker date="1505333040132" expanded="true" signature="8115:8212" ph="DELETE FROM " />
-                <marker date="1505333040132" expanded="true" signature="8244:8332" ph="DELETE FROM " />
-                <marker date="1505333040132" expanded="true" signature="8364:8448" ph="DELETE FROM " />
-                <marker date="1505333040132" expanded="true" signature="8549:8645" ph="SELECT DISTI... ${DB_PREFIX}" />
-                <marker date="1505333040132" expanded="true" signature="8776:8902" ph="SELECT DISTI... ${DB_PREFIX}" />
-                <marker date="1505333040132" expanded="true" signature="9016:9238" ph="SELECT *, CO... ${DB_PREFIX}" />
-                <marker date="1505333040132" expanded="true" signature="12176:12260" ph="SELECT * FRO... ${DB_PREFIX}" />
-                <marker date="1505333040132" expanded="true" signature="12356:12466" ph="SELECT * FRO... ${DB_PREFIX}country" />
-                <marker date="1505333040132" expanded="true" signature="13003:13104" ph="SELECT * FRO... ${DB_PREFIX}zone" />
-                <marker date="1505333040132" expanded="true" signature="14615:14710" ph="SELECT addre... ${DB_PREFIX}" />
-                <marker date="1505333040132" expanded="true" signature="15084:15139" ph="SELECT COUNT... ${DB_PREFIX}" />
-                <marker date="1505333040132" expanded="true" signature="16739:16846" ph="SELECT * FRO... ${DB_PREFIX}" />
-                <marker date="1505333040132" expanded="true" signature="16977:17074" ph="SELECT * FRO... ${DB_PREFIX}" />
-                <marker date="1505333040132" expanded="true" signature="17189:17370" ph="SELECT DISTI... ${DB_PREFIX}" />
-                <marker date="1505333040132" expanded="true" signature="18225:18376" ph="SELECT DISTI... ${DB_PREFIX}" />
-                <marker date="1505333040132" expanded="true" signature="18848:18950" ph="SELECT COUNT... ${DB_PREFIX}" />
-                <marker date="1505333040132" expanded="true" signature="19107:19207" ph="SELECT COUNT... ${DB_PREFIX}" />
-                <marker date="1505333040132" expanded="true" signature="19358:19452" ph="SELECT COUNT... ${DB_PREFIX}" />
-                <marker date="1505333040132" expanded="true" signature="19622:19737" ph="SELECT COUNT... ${DB_PREFIX}" />
-                <marker date="1505333040132" expanded="true" signature="19878:20054" ph="INSERT INTO ${DB_PREFIX}customer_history... " />
-                <marker date="1505333040132" expanded="true" signature="20308:20473" ph="SELECT comme... ${DB_PREFIX}" />
-                <marker date="1505333040132" expanded="true" signature="20624:20735" ph="SELECT COUNT... ${DB_PREFIX}" />
-                <marker date="1505333040132" expanded="true" signature="20918:21164" ph="INSERT INTO ${DB_PREFIX}customer_transaction... " />
-                <marker date="1505333040132" expanded="true" signature="21268:21359" ph="DELETE FROM " />
-                <marker date="1505333040132" expanded="true" signature="21616:21767" ph="SELECT * FRO... ${DB_PREFIX}" />
-                <marker date="1505333040132" expanded="true" signature="21921:22037" ph="SELECT COUNT... ${DB_PREFIX}" />
-                <marker date="1505333040132" expanded="true" signature="22186:22304" ph="SELECT SUM(a... ${DB_PREFIX}" />
-                <marker date="1505333040132" expanded="true" signature="22460:22569" ph="SELECT COUNT... ${DB_PREFIX}" />
-                <marker date="1505333040132" expanded="true" signature="22747:22986" ph="INSERT INTO ${DB_PREFIX}customer_reward... " />
-                <marker date="1505333040132" expanded="true" signature="23076:23177" ph="DELETE FROM " />
-                <marker date="1505333040132" expanded="true" signature="23302:23448" ph="SELECT * FRO... ${DB_PREFIX}" />
-                <marker date="1505333040132" expanded="true" signature="23597:23707" ph="SELECT COUNT... ${DB_PREFIX}" />
-                <marker date="1505333040132" expanded="true" signature="23851:23964" ph="SELECT SUM(p... ${DB_PREFIX}" />
-                <marker date="1505333040132" expanded="true" signature="24123:24242" ph="SELECT COUNT... ${DB_PREFIX}" />
-                <marker date="1505333040132" expanded="true" signature="24529:24671" ph="SELECT * FRO... ${DB_PREFIX}" />
-                <marker date="1505333040132" expanded="true" signature="24816:24922" ph="SELECT COUNT... ${DB_PREFIX}" />
-                <marker date="1505333040132" expanded="true" signature="25064:25168" ph="SELECT COUNT... ${DB_PREFIX}" />
-                <marker date="1505333040132" expanded="true" signature="25313:25414" ph="SELECT * FRO... ${DB_PREFIX}customer_login" />
-                <marker date="1505333040132" expanded="true" signature="25537:25636" ph="DELETE FROM " />
-                <marker date="1505333040132" expanded="true" signature="25761:26018" ph="SELECT * FRO... ${DB_PREFIX}" />
-                <marker date="1505333040132" expanded="true" signature="26168:26278" ph="SELECT COUNT... ${DB_PREFIX}" />
-                <marker date="1505333040132" expanded="true" signature="26402:26476" ph="DELETE FROM " />
-                <marker date="1505333040132" expanded="true" signature="26609:26730" ph="INSERT INTO ${DB_PREFIX}customer_import... " />
-                <marker date="1505333040132" expanded="true" signature="26609:26838" ph="INSERT INTO ${DB_PREFIX}customer_import... " />
+                <marker date="1505848634567" expanded="true" signature="124:939" ph="INSERT INTO ${DB_PREFIX}customer... " />
+                <marker date="1505848634567" expanded="true" signature="1128:1922" ph="INSERT INTO ${DB_PREFIX}address... " />
+                <marker date="1505848634567" expanded="true" signature="2323:3489" ph="INSERT INTO ${DB_PREFIX}customer_affiliate... " />
+                <marker date="1505848634567" expanded="true" signature="4667:4751" ph="DELETE FROM " />
+                <marker date="1505848634567" expanded="true" signature="4892:5740" ph="INSERT INTO ${DB_PREFIX}address... " />
+                <marker date="1505848634567" expanded="true" signature="6141:7162" ph="REPLACE INTO... ${DB_PREFIX}" />
+                <marker date="1505848634567" expanded="true" signature="7495:7580" ph="DELETE FROM " />
+                <marker date="1505848634567" expanded="true" signature="7612:7706" ph="DELETE FROM " />
+                <marker date="1505848634567" expanded="true" signature="7738:7833" ph="DELETE FROM " />
+                <marker date="1505848634567" expanded="true" signature="7865:7959" ph="DELETE FROM " />
+                <marker date="1505848634567" expanded="true" signature="7991:8083" ph="DELETE FROM " />
+                <marker date="1505848634567" expanded="true" signature="8115:8212" ph="DELETE FROM " />
+                <marker date="1505848634567" expanded="true" signature="8244:8332" ph="DELETE FROM " />
+                <marker date="1505848634567" expanded="true" signature="8364:8448" ph="DELETE FROM " />
+                <marker date="1505848634567" expanded="true" signature="8549:8645" ph="SELECT DISTI... ${DB_PREFIX}" />
+                <marker date="1505848634567" expanded="true" signature="8776:8902" ph="SELECT DISTI... ${DB_PREFIX}" />
+                <marker date="1505848634567" expanded="true" signature="9016:9238" ph="SELECT *, CO... ${DB_PREFIX}" />
+                <marker date="1505848634567" expanded="true" signature="12176:12260" ph="SELECT * FRO... ${DB_PREFIX}" />
+                <marker date="1505848634567" expanded="true" signature="12356:12466" ph="SELECT * FRO... ${DB_PREFIX}country" />
+                <marker date="1505848634567" expanded="true" signature="13003:13104" ph="SELECT * FRO... ${DB_PREFIX}zone" />
+                <marker date="1505848634567" expanded="true" signature="14615:14710" ph="SELECT addre... ${DB_PREFIX}" />
+                <marker date="1505848634567" expanded="true" signature="15084:15139" ph="SELECT COUNT... ${DB_PREFIX}" />
+                <marker date="1505848634567" expanded="true" signature="16739:16846" ph="SELECT * FRO... ${DB_PREFIX}" />
+                <marker date="1505848634567" expanded="true" signature="16977:17074" ph="SELECT * FRO... ${DB_PREFIX}" />
+                <marker date="1505848634567" expanded="true" signature="17189:17370" ph="SELECT DISTI... ${DB_PREFIX}" />
+                <marker date="1505848634567" expanded="true" signature="18225:18376" ph="SELECT DISTI... ${DB_PREFIX}" />
+                <marker date="1505848634567" expanded="true" signature="18848:18950" ph="SELECT COUNT... ${DB_PREFIX}" />
+                <marker date="1505848634567" expanded="true" signature="19107:19207" ph="SELECT COUNT... ${DB_PREFIX}" />
+                <marker date="1505848634567" expanded="true" signature="19358:19452" ph="SELECT COUNT... ${DB_PREFIX}" />
+                <marker date="1505848634567" expanded="true" signature="19622:19737" ph="SELECT COUNT... ${DB_PREFIX}" />
+                <marker date="1505848634567" expanded="true" signature="19878:20054" ph="INSERT INTO ${DB_PREFIX}customer_history... " />
+                <marker date="1505848634567" expanded="true" signature="20308:20473" ph="SELECT comme... ${DB_PREFIX}" />
+                <marker date="1505848634567" expanded="true" signature="20624:20735" ph="SELECT COUNT... ${DB_PREFIX}" />
+                <marker date="1505848634567" expanded="true" signature="20918:21164" ph="INSERT INTO ${DB_PREFIX}customer_transaction... " />
+                <marker date="1505848634567" expanded="true" signature="21268:21359" ph="DELETE FROM " />
+                <marker date="1505848634567" expanded="true" signature="21616:21767" ph="SELECT * FRO... ${DB_PREFIX}" />
+                <marker date="1505848634567" expanded="true" signature="21921:22037" ph="SELECT COUNT... ${DB_PREFIX}" />
+                <marker date="1505848634567" expanded="true" signature="22186:22304" ph="SELECT SUM(a... ${DB_PREFIX}" />
+                <marker date="1505848634567" expanded="true" signature="22460:22569" ph="SELECT COUNT... ${DB_PREFIX}" />
+                <marker date="1505848634567" expanded="true" signature="22747:22986" ph="INSERT INTO ${DB_PREFIX}customer_reward... " />
+                <marker date="1505848634567" expanded="true" signature="23076:23177" ph="DELETE FROM " />
+                <marker date="1505848634567" expanded="true" signature="23302:23448" ph="SELECT * FRO... ${DB_PREFIX}" />
+                <marker date="1505848634567" expanded="true" signature="23597:23707" ph="SELECT COUNT... ${DB_PREFIX}" />
+                <marker date="1505848634567" expanded="true" signature="23851:23964" ph="SELECT SUM(p... ${DB_PREFIX}" />
+                <marker date="1505848634567" expanded="true" signature="24123:24242" ph="SELECT COUNT... ${DB_PREFIX}" />
+                <marker date="1505848634567" expanded="true" signature="24529:24671" ph="SELECT * FRO... ${DB_PREFIX}" />
+                <marker date="1505848634567" expanded="true" signature="24816:24922" ph="SELECT COUNT... ${DB_PREFIX}" />
+                <marker date="1505848634567" expanded="true" signature="25064:25168" ph="SELECT COUNT... ${DB_PREFIX}" />
+                <marker date="1505848634567" expanded="true" signature="25313:25414" ph="SELECT * FRO... ${DB_PREFIX}customer_login" />
+                <marker date="1505848634567" expanded="true" signature="25537:25636" ph="DELETE FROM " />
+                <marker date="1505848634567" expanded="true" signature="25761:26106" ph="SELECT * FRO... ${DB_PREFIX}" />
+                <marker date="1505848634567" expanded="true" signature="26256:26366" ph="SELECT COUNT... ${DB_PREFIX}" />
+                <marker date="1505848634567" expanded="true" signature="26541:26770" ph="INSERT INTO ${DB_PREFIX}customer_import... " />
+                <marker date="1505848634567" expanded="true" signature="27140:27197" ph="DELETE FROM " />
+                <marker date="1505848634567" expanded="true" signature="27140:27208" ph="DELETE FROM " />
+                <marker date="1505848634567" expanded="true" signature="27140:27209" ph="DELETE FROM " />
+                <marker date="1505848634567" expanded="true" signature="27140:27249" ph="DELETE FROM " />
+                <marker date="1505848634567" expanded="true" signature="27349:27436" ph="DELETE FROM " />
               </folding>
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="customer_import.twig" pinned="false" current-in-tab="true">
+      <file leaf-file-name="customer_import.twig" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/admin/view/template/customer/customer_import.twig">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="391">
-              <caret line="23" column="31" lean-forward="false" selection-start-line="23" selection-start-column="31" selection-end-line="23" selection-end-column="31" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="customer_history.twig" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/admin/view/template/customer/customer_history.twig">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="204">
-              <caret line="12" column="59" lean-forward="true" selection-start-line="12" selection-start-column="59" selection-end-line="12" selection-end-column="59" />
+            <state relative-caret-position="600">
+              <caret line="47" column="27" lean-forward="true" selection-start-line="47" selection-start-column="27" selection-end-line="47" selection-end-column="27" />
               <folding />
             </state>
           </provider>
@@ -164,7 +309,18 @@
       <find>delete</find>
       <find>deleteImp</find>
       <find>import</find>
+      <find>btn-primary</find>
+      <find>form-customer</find>
       <find>getImports</find>
+      <find>button-select</find>
+      <find>action</find>
+      <find>post</find>
+      <find>getList</find>
+      <find>action_url</find>
+      <find>DIR_UPLOAD</find>
+      <find>$result</find>
+      <find>update</find>
+      <find>ean</find>
     </findStrings>
   </component>
   <component name="Git.Settings">
@@ -178,13 +334,13 @@
         <option value="$PROJECT_DIR$/SQL/oc_custumer_import.sql" />
         <option value="$PROJECT_DIR$/admin/view/template/customer/customer_list.twig" />
         <option value="$PROJECT_DIR$/admin/view/template/customer/customer_history.twig" />
-        <option value="$PROJECT_DIR$/admin/model/catalog/product.php" />
         <option value="$PROJECT_DIR$/admin/view/template/catalog/product_list.twig" />
+        <option value="$PROJECT_DIR$/.gitignore" />
         <option value="$PROJECT_DIR$/admin/view/template/customer/customer_form.twig" />
+        <option value="$PROJECT_DIR$/admin/view/template/customer/customer_import.twig" />
+        <option value="$PROJECT_DIR$/admin/model/catalog/product.php" />
         <option value="$PROJECT_DIR$/admin/model/customer/customer.php" />
         <option value="$PROJECT_DIR$/admin/controller/customer/customer.php" />
-        <option value="$PROJECT_DIR$/admin/view/template/customer/customer_import.twig" />
-        <option value="$PROJECT_DIR$/.gitignore" />
       </list>
     </option>
   </component>
@@ -195,9 +351,7 @@
     <sorting>DEFINITION_ORDER</sorting>
   </component>
   <component name="PhpWorkspaceProjectConfiguration" backward_compatibility_performed="true" />
-  <component name="ProjectFrameBounds" extendedState="6">
-    <option name="x" value="88" />
-    <option name="y" value="124" />
+  <component name="ProjectFrameBounds" extendedState="1">
     <option name="width" value="1822" />
     <option name="height" value="1040" />
   </component>
@@ -216,8 +370,8 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="Scratches" />
       <pane id="Scope" />
+      <pane id="Scratches" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -235,13 +389,6 @@
               <item name="OpenCart3" type="2a2b976b:PhpTreeStructureProvider$1" />
               <item name="admin" type="2a2b976b:PhpTreeStructureProvider$1" />
               <item name="controller" type="2a2b976b:PhpTreeStructureProvider$1" />
-            </path>
-            <path>
-              <item name="OpenCart3" type="b2602c69:ProjectViewProjectNode" />
-              <item name="OpenCart3" type="2a2b976b:PhpTreeStructureProvider$1" />
-              <item name="admin" type="2a2b976b:PhpTreeStructureProvider$1" />
-              <item name="controller" type="2a2b976b:PhpTreeStructureProvider$1" />
-              <item name="catalog" type="2a2b976b:PhpTreeStructureProvider$1" />
             </path>
             <path>
               <item name="OpenCart3" type="b2602c69:ProjectViewProjectNode" />
@@ -269,6 +416,13 @@
               <item name="admin" type="2a2b976b:PhpTreeStructureProvider$1" />
               <item name="model" type="2a2b976b:PhpTreeStructureProvider$1" />
               <item name="catalog" type="2a2b976b:PhpTreeStructureProvider$1" />
+            </path>
+            <path>
+              <item name="OpenCart3" type="b2602c69:ProjectViewProjectNode" />
+              <item name="OpenCart3" type="2a2b976b:PhpTreeStructureProvider$1" />
+              <item name="admin" type="2a2b976b:PhpTreeStructureProvider$1" />
+              <item name="model" type="2a2b976b:PhpTreeStructureProvider$1" />
+              <item name="customer" type="2a2b976b:PhpTreeStructureProvider$1" />
             </path>
             <path>
               <item name="OpenCart3" type="b2602c69:ProjectViewProjectNode" />
@@ -362,25 +516,26 @@
       <workItem from="1505055489799" duration="1807000" />
       <workItem from="1505121015028" duration="10539000" />
       <workItem from="1505211268255" duration="13667000" />
-      <workItem from="1505290409654" duration="24230000" />
+      <workItem from="1505290409654" duration="27565000" />
+      <workItem from="1505380411246" duration="3029000" />
+      <workItem from="1505825374279" duration="23240000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="50243000" />
+    <option name="totallyTimeSpent" value="79847000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
+    <frame x="0" y="0" width="1822" height="1040" extended-state="1" />
     <editor active="true" />
     <layout>
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.17110874" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.17480136" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32934782" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
-      <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32934782" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32995737" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="9" side_tool="false" content_ui="tabs" />
       <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
-      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.24971624" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
       <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
@@ -389,6 +544,7 @@
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
       <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32934782" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
     </layout>
   </component>
@@ -399,7 +555,9 @@
     <option name="myLimit" value="2678400000" />
   </component>
   <component name="XDebuggerManager">
-    <breakpoint-manager />
+    <breakpoint-manager>
+      <option name="time" value="1" />
+    </breakpoint-manager>
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
@@ -407,7 +565,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="153">
           <caret line="9" column="3" lean-forward="true" selection-start-line="9" selection-start-column="3" selection-end-line="22" selection-end-column="12" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -415,13 +572,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="1411">
           <caret line="83" column="62" lean-forward="true" selection-start-line="83" selection-start-column="62" selection-end-line="83" selection-end-column="62" />
-          <folding>
-            <marker date="1500060408092" expanded="true" signature="3839:3853" ph="..." />
-            <marker date="1500060408092" expanded="true" signature="4993:5000" ph="×" />
-            <marker date="1500060408092" expanded="true" signature="5275:5282" ph="×" />
-            <marker date="1500060408092" expanded="true" signature="6111:6118" ph="×" />
-            <marker date="1500060408092" expanded="true" signature="6385:6392" ph="×" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -429,7 +579,9 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="22219">
           <caret line="1307" column="8" lean-forward="false" selection-start-line="1307" selection-start-column="8" selection-end-line="1313" selection-end-column="9" />
-          <folding />
+          <folding>
+            <element signature="n#autocomplete#0;n#ControllerCustomerCustomer#0;n#!!top" expanded="false" />
+          </folding>
         </state>
       </provider>
     </entry>
@@ -438,61 +590,64 @@
         <state relative-caret-position="8432">
           <caret line="496" column="5" lean-forward="true" selection-start-line="496" selection-start-column="5" selection-end-line="496" selection-end-column="5" />
           <folding>
-            <marker date="1505333040132" expanded="true" signature="124:939" ph="INSERT INTO ${DB_PREFIX}customer... " />
-            <marker date="1505333040132" expanded="true" signature="1128:1922" ph="INSERT INTO ${DB_PREFIX}address... " />
-            <marker date="1505333040132" expanded="true" signature="2323:3489" ph="INSERT INTO ${DB_PREFIX}customer_affiliate... " />
-            <marker date="1505333040132" expanded="true" signature="4667:4751" ph="DELETE FROM " />
-            <marker date="1505333040132" expanded="true" signature="4892:5740" ph="INSERT INTO ${DB_PREFIX}address... " />
-            <marker date="1505333040132" expanded="true" signature="6141:7162" ph="REPLACE INTO... ${DB_PREFIX}" />
-            <marker date="1505333040132" expanded="true" signature="7495:7580" ph="DELETE FROM " />
-            <marker date="1505333040132" expanded="true" signature="7612:7706" ph="DELETE FROM " />
-            <marker date="1505333040132" expanded="true" signature="7738:7833" ph="DELETE FROM " />
-            <marker date="1505333040132" expanded="true" signature="7865:7959" ph="DELETE FROM " />
-            <marker date="1505333040132" expanded="true" signature="7991:8083" ph="DELETE FROM " />
-            <marker date="1505333040132" expanded="true" signature="8115:8212" ph="DELETE FROM " />
-            <marker date="1505333040132" expanded="true" signature="8244:8332" ph="DELETE FROM " />
-            <marker date="1505333040132" expanded="true" signature="8364:8448" ph="DELETE FROM " />
-            <marker date="1505333040132" expanded="true" signature="8549:8645" ph="SELECT DISTI... ${DB_PREFIX}" />
-            <marker date="1505333040132" expanded="true" signature="8776:8902" ph="SELECT DISTI... ${DB_PREFIX}" />
-            <marker date="1505333040132" expanded="true" signature="9016:9238" ph="SELECT *, CO... ${DB_PREFIX}" />
-            <marker date="1505333040132" expanded="true" signature="12176:12260" ph="SELECT * FRO... ${DB_PREFIX}" />
-            <marker date="1505333040132" expanded="true" signature="12356:12466" ph="SELECT * FRO... ${DB_PREFIX}country" />
-            <marker date="1505333040132" expanded="true" signature="13003:13104" ph="SELECT * FRO... ${DB_PREFIX}zone" />
-            <marker date="1505333040132" expanded="true" signature="14615:14710" ph="SELECT addre... ${DB_PREFIX}" />
-            <marker date="1505333040132" expanded="true" signature="15084:15139" ph="SELECT COUNT... ${DB_PREFIX}" />
-            <marker date="1505333040132" expanded="true" signature="16739:16846" ph="SELECT * FRO... ${DB_PREFIX}" />
-            <marker date="1505333040132" expanded="true" signature="16977:17074" ph="SELECT * FRO... ${DB_PREFIX}" />
-            <marker date="1505333040132" expanded="true" signature="17189:17370" ph="SELECT DISTI... ${DB_PREFIX}" />
-            <marker date="1505333040132" expanded="true" signature="18225:18376" ph="SELECT DISTI... ${DB_PREFIX}" />
-            <marker date="1505333040132" expanded="true" signature="18848:18950" ph="SELECT COUNT... ${DB_PREFIX}" />
-            <marker date="1505333040132" expanded="true" signature="19107:19207" ph="SELECT COUNT... ${DB_PREFIX}" />
-            <marker date="1505333040132" expanded="true" signature="19358:19452" ph="SELECT COUNT... ${DB_PREFIX}" />
-            <marker date="1505333040132" expanded="true" signature="19622:19737" ph="SELECT COUNT... ${DB_PREFIX}" />
-            <marker date="1505333040132" expanded="true" signature="19878:20054" ph="INSERT INTO ${DB_PREFIX}customer_history... " />
-            <marker date="1505333040132" expanded="true" signature="20308:20473" ph="SELECT comme... ${DB_PREFIX}" />
-            <marker date="1505333040132" expanded="true" signature="20624:20735" ph="SELECT COUNT... ${DB_PREFIX}" />
-            <marker date="1505333040132" expanded="true" signature="20918:21164" ph="INSERT INTO ${DB_PREFIX}customer_transaction... " />
-            <marker date="1505333040132" expanded="true" signature="21268:21359" ph="DELETE FROM " />
-            <marker date="1505333040132" expanded="true" signature="21616:21767" ph="SELECT * FRO... ${DB_PREFIX}" />
-            <marker date="1505333040132" expanded="true" signature="21921:22037" ph="SELECT COUNT... ${DB_PREFIX}" />
-            <marker date="1505333040132" expanded="true" signature="22186:22304" ph="SELECT SUM(a... ${DB_PREFIX}" />
-            <marker date="1505333040132" expanded="true" signature="22460:22569" ph="SELECT COUNT... ${DB_PREFIX}" />
-            <marker date="1505333040132" expanded="true" signature="22747:22986" ph="INSERT INTO ${DB_PREFIX}customer_reward... " />
-            <marker date="1505333040132" expanded="true" signature="23076:23177" ph="DELETE FROM " />
-            <marker date="1505333040132" expanded="true" signature="23302:23448" ph="SELECT * FRO... ${DB_PREFIX}" />
-            <marker date="1505333040132" expanded="true" signature="23597:23707" ph="SELECT COUNT... ${DB_PREFIX}" />
-            <marker date="1505333040132" expanded="true" signature="23851:23964" ph="SELECT SUM(p... ${DB_PREFIX}" />
-            <marker date="1505333040132" expanded="true" signature="24123:24242" ph="SELECT COUNT... ${DB_PREFIX}" />
-            <marker date="1505333040132" expanded="true" signature="24529:24671" ph="SELECT * FRO... ${DB_PREFIX}" />
-            <marker date="1505333040132" expanded="true" signature="24816:24922" ph="SELECT COUNT... ${DB_PREFIX}" />
-            <marker date="1505333040132" expanded="true" signature="25064:25168" ph="SELECT COUNT... ${DB_PREFIX}" />
-            <marker date="1505333040132" expanded="true" signature="25313:25414" ph="SELECT * FRO... ${DB_PREFIX}customer_login" />
-            <marker date="1505333040132" expanded="true" signature="25537:25636" ph="DELETE FROM " />
-            <marker date="1505333040132" expanded="true" signature="25761:26018" ph="SELECT * FRO... ${DB_PREFIX}" />
-            <marker date="1505333040132" expanded="true" signature="26168:26278" ph="SELECT COUNT... ${DB_PREFIX}" />
-            <marker date="1505333040132" expanded="true" signature="26402:26476" ph="DELETE FROM " />
-            <marker date="1505333040132" expanded="true" signature="26609:26730" ph="INSERT INTO ${DB_PREFIX}customer_import... " />
-            <marker date="1505333040132" expanded="true" signature="26609:26838" ph="INSERT INTO ${DB_PREFIX}customer_import... " />
+            <marker date="1505848634567" expanded="true" signature="124:939" ph="INSERT INTO ${DB_PREFIX}customer... " />
+            <marker date="1505848634567" expanded="true" signature="1128:1922" ph="INSERT INTO ${DB_PREFIX}address... " />
+            <marker date="1505848634567" expanded="true" signature="2323:3489" ph="INSERT INTO ${DB_PREFIX}customer_affiliate... " />
+            <marker date="1505848634567" expanded="true" signature="4667:4751" ph="DELETE FROM " />
+            <marker date="1505848634567" expanded="true" signature="4892:5740" ph="INSERT INTO ${DB_PREFIX}address... " />
+            <marker date="1505848634567" expanded="true" signature="6141:7162" ph="REPLACE INTO... ${DB_PREFIX}" />
+            <marker date="1505848634567" expanded="true" signature="7495:7580" ph="DELETE FROM " />
+            <marker date="1505848634567" expanded="true" signature="7612:7706" ph="DELETE FROM " />
+            <marker date="1505848634567" expanded="true" signature="7738:7833" ph="DELETE FROM " />
+            <marker date="1505848634567" expanded="true" signature="7865:7959" ph="DELETE FROM " />
+            <marker date="1505848634567" expanded="true" signature="7991:8083" ph="DELETE FROM " />
+            <marker date="1505848634567" expanded="true" signature="8115:8212" ph="DELETE FROM " />
+            <marker date="1505848634567" expanded="true" signature="8244:8332" ph="DELETE FROM " />
+            <marker date="1505848634567" expanded="true" signature="8364:8448" ph="DELETE FROM " />
+            <marker date="1505848634567" expanded="true" signature="8549:8645" ph="SELECT DISTI... ${DB_PREFIX}" />
+            <marker date="1505848634567" expanded="true" signature="8776:8902" ph="SELECT DISTI... ${DB_PREFIX}" />
+            <marker date="1505848634567" expanded="true" signature="9016:9238" ph="SELECT *, CO... ${DB_PREFIX}" />
+            <marker date="1505848634567" expanded="true" signature="12176:12260" ph="SELECT * FRO... ${DB_PREFIX}" />
+            <marker date="1505848634567" expanded="true" signature="12356:12466" ph="SELECT * FRO... ${DB_PREFIX}country" />
+            <marker date="1505848634567" expanded="true" signature="13003:13104" ph="SELECT * FRO... ${DB_PREFIX}zone" />
+            <marker date="1505848634567" expanded="true" signature="14615:14710" ph="SELECT addre... ${DB_PREFIX}" />
+            <marker date="1505848634567" expanded="true" signature="15084:15139" ph="SELECT COUNT... ${DB_PREFIX}" />
+            <marker date="1505848634567" expanded="true" signature="16739:16846" ph="SELECT * FRO... ${DB_PREFIX}" />
+            <marker date="1505848634567" expanded="true" signature="16977:17074" ph="SELECT * FRO... ${DB_PREFIX}" />
+            <marker date="1505848634567" expanded="true" signature="17189:17370" ph="SELECT DISTI... ${DB_PREFIX}" />
+            <marker date="1505848634567" expanded="true" signature="18225:18376" ph="SELECT DISTI... ${DB_PREFIX}" />
+            <marker date="1505848634567" expanded="true" signature="18848:18950" ph="SELECT COUNT... ${DB_PREFIX}" />
+            <marker date="1505848634567" expanded="true" signature="19107:19207" ph="SELECT COUNT... ${DB_PREFIX}" />
+            <marker date="1505848634567" expanded="true" signature="19358:19452" ph="SELECT COUNT... ${DB_PREFIX}" />
+            <marker date="1505848634567" expanded="true" signature="19622:19737" ph="SELECT COUNT... ${DB_PREFIX}" />
+            <marker date="1505848634567" expanded="true" signature="19878:20054" ph="INSERT INTO ${DB_PREFIX}customer_history... " />
+            <marker date="1505848634567" expanded="true" signature="20308:20473" ph="SELECT comme... ${DB_PREFIX}" />
+            <marker date="1505848634567" expanded="true" signature="20624:20735" ph="SELECT COUNT... ${DB_PREFIX}" />
+            <marker date="1505848634567" expanded="true" signature="20918:21164" ph="INSERT INTO ${DB_PREFIX}customer_transaction... " />
+            <marker date="1505848634567" expanded="true" signature="21268:21359" ph="DELETE FROM " />
+            <marker date="1505848634567" expanded="true" signature="21616:21767" ph="SELECT * FRO... ${DB_PREFIX}" />
+            <marker date="1505848634567" expanded="true" signature="21921:22037" ph="SELECT COUNT... ${DB_PREFIX}" />
+            <marker date="1505848634567" expanded="true" signature="22186:22304" ph="SELECT SUM(a... ${DB_PREFIX}" />
+            <marker date="1505848634567" expanded="true" signature="22460:22569" ph="SELECT COUNT... ${DB_PREFIX}" />
+            <marker date="1505848634567" expanded="true" signature="22747:22986" ph="INSERT INTO ${DB_PREFIX}customer_reward... " />
+            <marker date="1505848634567" expanded="true" signature="23076:23177" ph="DELETE FROM " />
+            <marker date="1505848634567" expanded="true" signature="23302:23448" ph="SELECT * FRO... ${DB_PREFIX}" />
+            <marker date="1505848634567" expanded="true" signature="23597:23707" ph="SELECT COUNT... ${DB_PREFIX}" />
+            <marker date="1505848634567" expanded="true" signature="23851:23964" ph="SELECT SUM(p... ${DB_PREFIX}" />
+            <marker date="1505848634567" expanded="true" signature="24123:24242" ph="SELECT COUNT... ${DB_PREFIX}" />
+            <marker date="1505848634567" expanded="true" signature="24529:24671" ph="SELECT * FRO... ${DB_PREFIX}" />
+            <marker date="1505848634567" expanded="true" signature="24816:24922" ph="SELECT COUNT... ${DB_PREFIX}" />
+            <marker date="1505848634567" expanded="true" signature="25064:25168" ph="SELECT COUNT... ${DB_PREFIX}" />
+            <marker date="1505848634567" expanded="true" signature="25313:25414" ph="SELECT * FRO... ${DB_PREFIX}customer_login" />
+            <marker date="1505848634567" expanded="true" signature="25537:25636" ph="DELETE FROM " />
+            <marker date="1505848634567" expanded="true" signature="25761:26106" ph="SELECT * FRO... ${DB_PREFIX}" />
+            <marker date="1505848634567" expanded="true" signature="26256:26366" ph="SELECT COUNT... ${DB_PREFIX}" />
+            <marker date="1505848634567" expanded="true" signature="26541:26770" ph="INSERT INTO ${DB_PREFIX}customer_import... " />
+            <marker date="1505848634567" expanded="true" signature="27140:27197" ph="DELETE FROM " />
+            <marker date="1505848634567" expanded="true" signature="27140:27208" ph="DELETE FROM " />
+            <marker date="1505848634567" expanded="true" signature="27140:27209" ph="DELETE FROM " />
+            <marker date="1505848634567" expanded="true" signature="27140:27249" ph="DELETE FROM " />
+            <marker date="1505848634567" expanded="true" signature="27349:27436" ph="DELETE FROM " />
           </folding>
         </state>
       </provider>
@@ -501,10 +656,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="255">
           <caret line="15" column="27" lean-forward="true" selection-start-line="15" selection-start-column="27" selection-end-line="15" selection-end-column="27" />
-          <folding>
-            <marker date="1499383063362" expanded="true" signature="820:850" ph="SELECT * FRO... ${$table}" />
-            <marker date="1499383063362" expanded="true" signature="1587:1712" ph="INSERT INTO `${$table}`... " />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -541,31 +692,21 @@
             <element signature="n#script#1;n#div#0;n#!!top" expanded="false" />
             <element signature="n#script#2;n#div#0;n#!!top" expanded="false" />
             <element signature="n#script#3;n#div#0;n#!!top" expanded="false" />
+            <element signature="e#136981#138889#0#HTML" expanded="false" />
             <element signature="n#script#4;n#div#0;n#!!top" expanded="false" />
-            <element signature="e#137791#137878#0#HTML" expanded="false" />
-            <element signature="e#138068#139827#0#HTML" expanded="false" />
+            <element signature="e#139087#139174#0#HTML" expanded="false" />
             <element signature="n#script#5;n#div#0;n#!!top" expanded="false" />
-            <element signature="e#139967#140058#0#HTML" expanded="false" />
             <element signature="n#script#6;n#div#0;n#!!top" expanded="false" />
-            <element signature="e#142360#142446#0#HTML" expanded="false" />
-            <element signature="e#142633#144543#0#HTML" expanded="false" />
-            <element signature="e#144612#144694#0#HTML" expanded="false" />
-            <element signature="e#144943#147124#0#HTML" expanded="false" />
-            <element signature="e#147162#147243#0#HTML" expanded="false" />
-            <element signature="e#147285#147393#0#HTML" expanded="false" />
-            <element signature="e#147431#147512#0#HTML" expanded="false" />
-            <element signature="e#147592#148451#0#Twig" expanded="false" />
-            <element signature="e#148529#149098#0#HTML" expanded="false" />
-            <element signature="e#149179#149754#0#HTML" expanded="false" />
+            <element signature="e#148888#149747#0#Twig" expanded="false" />
             <element signature="n#script#8;n#div#0;n#!!top" expanded="false" />
-            <marker date="1505331383460" expanded="true" signature="139020:139027" ph="×" />
-            <marker date="1505331383460" expanded="true" signature="139330:139337" ph="×" />
-            <marker date="1505331383460" expanded="true" signature="141323:141330" ph="×" />
-            <marker date="1505331383460" expanded="true" signature="141637:141644" ph="×" />
-            <marker date="1505331383460" expanded="true" signature="143666:143673" ph="×" />
-            <marker date="1505331383460" expanded="true" signature="143975:143982" ph="×" />
-            <marker date="1505331383460" expanded="true" signature="145107:145121" ph="..." />
-            <marker date="1505331383460" expanded="true" signature="150294:150308" ph="..." />
+            <marker date="1505844259409" expanded="true" signature="140316:140323" ph="×" />
+            <marker date="1505844259409" expanded="true" signature="140626:140633" ph="×" />
+            <marker date="1505844259409" expanded="true" signature="142619:142626" ph="×" />
+            <marker date="1505844259409" expanded="true" signature="142933:142940" ph="×" />
+            <marker date="1505844259409" expanded="true" signature="144962:144969" ph="×" />
+            <marker date="1505844259409" expanded="true" signature="145271:145278" ph="×" />
+            <marker date="1505844259409" expanded="true" signature="146403:146417" ph="..." />
+            <marker date="1505844259409" expanded="true" signature="151634:151648" ph="..." />
           </folding>
         </state>
       </provider>
@@ -582,7 +723,9 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="23613">
           <caret line="1389" column="0" lean-forward="true" selection-start-line="1389" selection-start-column="0" selection-end-line="1389" selection-end-column="0" />
-          <folding />
+          <folding>
+            <element signature="n#autocomplete#0;n#ControllerCustomerCustomer#0;n#!!top" expanded="false" />
+          </folding>
         </state>
       </provider>
     </entry>
@@ -591,61 +734,64 @@
         <state relative-caret-position="51">
           <caret line="3" column="82" lean-forward="false" selection-start-line="3" selection-start-column="82" selection-end-line="3" selection-end-column="82" />
           <folding>
-            <marker date="1505333040132" expanded="true" signature="124:939" ph="INSERT INTO ${DB_PREFIX}customer... " />
-            <marker date="1505333040132" expanded="true" signature="1128:1922" ph="INSERT INTO ${DB_PREFIX}address... " />
-            <marker date="1505333040132" expanded="true" signature="2323:3489" ph="INSERT INTO ${DB_PREFIX}customer_affiliate... " />
-            <marker date="1505333040132" expanded="true" signature="4667:4751" ph="DELETE FROM " />
-            <marker date="1505333040132" expanded="true" signature="4892:5740" ph="INSERT INTO ${DB_PREFIX}address... " />
-            <marker date="1505333040132" expanded="true" signature="6141:7162" ph="REPLACE INTO... ${DB_PREFIX}" />
-            <marker date="1505333040132" expanded="true" signature="7495:7580" ph="DELETE FROM " />
-            <marker date="1505333040132" expanded="true" signature="7612:7706" ph="DELETE FROM " />
-            <marker date="1505333040132" expanded="true" signature="7738:7833" ph="DELETE FROM " />
-            <marker date="1505333040132" expanded="true" signature="7865:7959" ph="DELETE FROM " />
-            <marker date="1505333040132" expanded="true" signature="7991:8083" ph="DELETE FROM " />
-            <marker date="1505333040132" expanded="true" signature="8115:8212" ph="DELETE FROM " />
-            <marker date="1505333040132" expanded="true" signature="8244:8332" ph="DELETE FROM " />
-            <marker date="1505333040132" expanded="true" signature="8364:8448" ph="DELETE FROM " />
-            <marker date="1505333040132" expanded="true" signature="8549:8645" ph="SELECT DISTI... ${DB_PREFIX}" />
-            <marker date="1505333040132" expanded="true" signature="8776:8902" ph="SELECT DISTI... ${DB_PREFIX}" />
-            <marker date="1505333040132" expanded="true" signature="9016:9238" ph="SELECT *, CO... ${DB_PREFIX}" />
-            <marker date="1505333040132" expanded="true" signature="12176:12260" ph="SELECT * FRO... ${DB_PREFIX}" />
-            <marker date="1505333040132" expanded="true" signature="12356:12466" ph="SELECT * FRO... ${DB_PREFIX}country" />
-            <marker date="1505333040132" expanded="true" signature="13003:13104" ph="SELECT * FRO... ${DB_PREFIX}zone" />
-            <marker date="1505333040132" expanded="true" signature="14615:14710" ph="SELECT addre... ${DB_PREFIX}" />
-            <marker date="1505333040132" expanded="true" signature="15084:15139" ph="SELECT COUNT... ${DB_PREFIX}" />
-            <marker date="1505333040132" expanded="true" signature="16739:16846" ph="SELECT * FRO... ${DB_PREFIX}" />
-            <marker date="1505333040132" expanded="true" signature="16977:17074" ph="SELECT * FRO... ${DB_PREFIX}" />
-            <marker date="1505333040132" expanded="true" signature="17189:17370" ph="SELECT DISTI... ${DB_PREFIX}" />
-            <marker date="1505333040132" expanded="true" signature="18225:18376" ph="SELECT DISTI... ${DB_PREFIX}" />
-            <marker date="1505333040132" expanded="true" signature="18848:18950" ph="SELECT COUNT... ${DB_PREFIX}" />
-            <marker date="1505333040132" expanded="true" signature="19107:19207" ph="SELECT COUNT... ${DB_PREFIX}" />
-            <marker date="1505333040132" expanded="true" signature="19358:19452" ph="SELECT COUNT... ${DB_PREFIX}" />
-            <marker date="1505333040132" expanded="true" signature="19622:19737" ph="SELECT COUNT... ${DB_PREFIX}" />
-            <marker date="1505333040132" expanded="true" signature="19878:20054" ph="INSERT INTO ${DB_PREFIX}customer_history... " />
-            <marker date="1505333040132" expanded="true" signature="20308:20473" ph="SELECT comme... ${DB_PREFIX}" />
-            <marker date="1505333040132" expanded="true" signature="20624:20735" ph="SELECT COUNT... ${DB_PREFIX}" />
-            <marker date="1505333040132" expanded="true" signature="20918:21164" ph="INSERT INTO ${DB_PREFIX}customer_transaction... " />
-            <marker date="1505333040132" expanded="true" signature="21268:21359" ph="DELETE FROM " />
-            <marker date="1505333040132" expanded="true" signature="21616:21767" ph="SELECT * FRO... ${DB_PREFIX}" />
-            <marker date="1505333040132" expanded="true" signature="21921:22037" ph="SELECT COUNT... ${DB_PREFIX}" />
-            <marker date="1505333040132" expanded="true" signature="22186:22304" ph="SELECT SUM(a... ${DB_PREFIX}" />
-            <marker date="1505333040132" expanded="true" signature="22460:22569" ph="SELECT COUNT... ${DB_PREFIX}" />
-            <marker date="1505333040132" expanded="true" signature="22747:22986" ph="INSERT INTO ${DB_PREFIX}customer_reward... " />
-            <marker date="1505333040132" expanded="true" signature="23076:23177" ph="DELETE FROM " />
-            <marker date="1505333040132" expanded="true" signature="23302:23448" ph="SELECT * FRO... ${DB_PREFIX}" />
-            <marker date="1505333040132" expanded="true" signature="23597:23707" ph="SELECT COUNT... ${DB_PREFIX}" />
-            <marker date="1505333040132" expanded="true" signature="23851:23964" ph="SELECT SUM(p... ${DB_PREFIX}" />
-            <marker date="1505333040132" expanded="true" signature="24123:24242" ph="SELECT COUNT... ${DB_PREFIX}" />
-            <marker date="1505333040132" expanded="true" signature="24529:24671" ph="SELECT * FRO... ${DB_PREFIX}" />
-            <marker date="1505333040132" expanded="true" signature="24816:24922" ph="SELECT COUNT... ${DB_PREFIX}" />
-            <marker date="1505333040132" expanded="true" signature="25064:25168" ph="SELECT COUNT... ${DB_PREFIX}" />
-            <marker date="1505333040132" expanded="true" signature="25313:25414" ph="SELECT * FRO... ${DB_PREFIX}customer_login" />
-            <marker date="1505333040132" expanded="true" signature="25537:25636" ph="DELETE FROM " />
-            <marker date="1505333040132" expanded="true" signature="25761:26018" ph="SELECT * FRO... ${DB_PREFIX}" />
-            <marker date="1505333040132" expanded="true" signature="26168:26278" ph="SELECT COUNT... ${DB_PREFIX}" />
-            <marker date="1505333040132" expanded="true" signature="26402:26476" ph="DELETE FROM " />
-            <marker date="1505333040132" expanded="true" signature="26609:26730" ph="INSERT INTO ${DB_PREFIX}customer_import... " />
-            <marker date="1505333040132" expanded="true" signature="26609:26838" ph="INSERT INTO ${DB_PREFIX}customer_import... " />
+            <marker date="1505848634567" expanded="true" signature="124:939" ph="INSERT INTO ${DB_PREFIX}customer... " />
+            <marker date="1505848634567" expanded="true" signature="1128:1922" ph="INSERT INTO ${DB_PREFIX}address... " />
+            <marker date="1505848634567" expanded="true" signature="2323:3489" ph="INSERT INTO ${DB_PREFIX}customer_affiliate... " />
+            <marker date="1505848634567" expanded="true" signature="4667:4751" ph="DELETE FROM " />
+            <marker date="1505848634567" expanded="true" signature="4892:5740" ph="INSERT INTO ${DB_PREFIX}address... " />
+            <marker date="1505848634567" expanded="true" signature="6141:7162" ph="REPLACE INTO... ${DB_PREFIX}" />
+            <marker date="1505848634567" expanded="true" signature="7495:7580" ph="DELETE FROM " />
+            <marker date="1505848634567" expanded="true" signature="7612:7706" ph="DELETE FROM " />
+            <marker date="1505848634567" expanded="true" signature="7738:7833" ph="DELETE FROM " />
+            <marker date="1505848634567" expanded="true" signature="7865:7959" ph="DELETE FROM " />
+            <marker date="1505848634567" expanded="true" signature="7991:8083" ph="DELETE FROM " />
+            <marker date="1505848634567" expanded="true" signature="8115:8212" ph="DELETE FROM " />
+            <marker date="1505848634567" expanded="true" signature="8244:8332" ph="DELETE FROM " />
+            <marker date="1505848634567" expanded="true" signature="8364:8448" ph="DELETE FROM " />
+            <marker date="1505848634567" expanded="true" signature="8549:8645" ph="SELECT DISTI... ${DB_PREFIX}" />
+            <marker date="1505848634567" expanded="true" signature="8776:8902" ph="SELECT DISTI... ${DB_PREFIX}" />
+            <marker date="1505848634567" expanded="true" signature="9016:9238" ph="SELECT *, CO... ${DB_PREFIX}" />
+            <marker date="1505848634567" expanded="true" signature="12176:12260" ph="SELECT * FRO... ${DB_PREFIX}" />
+            <marker date="1505848634567" expanded="true" signature="12356:12466" ph="SELECT * FRO... ${DB_PREFIX}country" />
+            <marker date="1505848634567" expanded="true" signature="13003:13104" ph="SELECT * FRO... ${DB_PREFIX}zone" />
+            <marker date="1505848634567" expanded="true" signature="14615:14710" ph="SELECT addre... ${DB_PREFIX}" />
+            <marker date="1505848634567" expanded="true" signature="15084:15139" ph="SELECT COUNT... ${DB_PREFIX}" />
+            <marker date="1505848634567" expanded="true" signature="16739:16846" ph="SELECT * FRO... ${DB_PREFIX}" />
+            <marker date="1505848634567" expanded="true" signature="16977:17074" ph="SELECT * FRO... ${DB_PREFIX}" />
+            <marker date="1505848634567" expanded="true" signature="17189:17370" ph="SELECT DISTI... ${DB_PREFIX}" />
+            <marker date="1505848634567" expanded="true" signature="18225:18376" ph="SELECT DISTI... ${DB_PREFIX}" />
+            <marker date="1505848634567" expanded="true" signature="18848:18950" ph="SELECT COUNT... ${DB_PREFIX}" />
+            <marker date="1505848634567" expanded="true" signature="19107:19207" ph="SELECT COUNT... ${DB_PREFIX}" />
+            <marker date="1505848634567" expanded="true" signature="19358:19452" ph="SELECT COUNT... ${DB_PREFIX}" />
+            <marker date="1505848634567" expanded="true" signature="19622:19737" ph="SELECT COUNT... ${DB_PREFIX}" />
+            <marker date="1505848634567" expanded="true" signature="19878:20054" ph="INSERT INTO ${DB_PREFIX}customer_history... " />
+            <marker date="1505848634567" expanded="true" signature="20308:20473" ph="SELECT comme... ${DB_PREFIX}" />
+            <marker date="1505848634567" expanded="true" signature="20624:20735" ph="SELECT COUNT... ${DB_PREFIX}" />
+            <marker date="1505848634567" expanded="true" signature="20918:21164" ph="INSERT INTO ${DB_PREFIX}customer_transaction... " />
+            <marker date="1505848634567" expanded="true" signature="21268:21359" ph="DELETE FROM " />
+            <marker date="1505848634567" expanded="true" signature="21616:21767" ph="SELECT * FRO... ${DB_PREFIX}" />
+            <marker date="1505848634567" expanded="true" signature="21921:22037" ph="SELECT COUNT... ${DB_PREFIX}" />
+            <marker date="1505848634567" expanded="true" signature="22186:22304" ph="SELECT SUM(a... ${DB_PREFIX}" />
+            <marker date="1505848634567" expanded="true" signature="22460:22569" ph="SELECT COUNT... ${DB_PREFIX}" />
+            <marker date="1505848634567" expanded="true" signature="22747:22986" ph="INSERT INTO ${DB_PREFIX}customer_reward... " />
+            <marker date="1505848634567" expanded="true" signature="23076:23177" ph="DELETE FROM " />
+            <marker date="1505848634567" expanded="true" signature="23302:23448" ph="SELECT * FRO... ${DB_PREFIX}" />
+            <marker date="1505848634567" expanded="true" signature="23597:23707" ph="SELECT COUNT... ${DB_PREFIX}" />
+            <marker date="1505848634567" expanded="true" signature="23851:23964" ph="SELECT SUM(p... ${DB_PREFIX}" />
+            <marker date="1505848634567" expanded="true" signature="24123:24242" ph="SELECT COUNT... ${DB_PREFIX}" />
+            <marker date="1505848634567" expanded="true" signature="24529:24671" ph="SELECT * FRO... ${DB_PREFIX}" />
+            <marker date="1505848634567" expanded="true" signature="24816:24922" ph="SELECT COUNT... ${DB_PREFIX}" />
+            <marker date="1505848634567" expanded="true" signature="25064:25168" ph="SELECT COUNT... ${DB_PREFIX}" />
+            <marker date="1505848634567" expanded="true" signature="25313:25414" ph="SELECT * FRO... ${DB_PREFIX}customer_login" />
+            <marker date="1505848634567" expanded="true" signature="25537:25636" ph="DELETE FROM " />
+            <marker date="1505848634567" expanded="true" signature="25761:26106" ph="SELECT * FRO... ${DB_PREFIX}" />
+            <marker date="1505848634567" expanded="true" signature="26256:26366" ph="SELECT COUNT... ${DB_PREFIX}" />
+            <marker date="1505848634567" expanded="true" signature="26541:26770" ph="INSERT INTO ${DB_PREFIX}customer_import... " />
+            <marker date="1505848634567" expanded="true" signature="27140:27197" ph="DELETE FROM " />
+            <marker date="1505848634567" expanded="true" signature="27140:27208" ph="DELETE FROM " />
+            <marker date="1505848634567" expanded="true" signature="27140:27209" ph="DELETE FROM " />
+            <marker date="1505848634567" expanded="true" signature="27140:27249" ph="DELETE FROM " />
+            <marker date="1505848634567" expanded="true" signature="27349:27436" ph="DELETE FROM " />
           </folding>
         </state>
       </provider>
@@ -666,31 +812,21 @@
             <element signature="n#script#1;n#div#0;n#!!top" expanded="false" />
             <element signature="n#script#2;n#div#0;n#!!top" expanded="false" />
             <element signature="n#script#3;n#div#0;n#!!top" expanded="false" />
+            <element signature="e#136981#138889#0#HTML" expanded="false" />
             <element signature="n#script#4;n#div#0;n#!!top" expanded="false" />
-            <element signature="e#137791#137878#0#HTML" expanded="false" />
-            <element signature="e#138068#139827#0#HTML" expanded="false" />
+            <element signature="e#139087#139174#0#HTML" expanded="false" />
             <element signature="n#script#5;n#div#0;n#!!top" expanded="false" />
-            <element signature="e#139967#140058#0#HTML" expanded="false" />
             <element signature="n#script#6;n#div#0;n#!!top" expanded="false" />
-            <element signature="e#142360#142446#0#HTML" expanded="false" />
-            <element signature="e#142633#144543#0#HTML" expanded="false" />
-            <element signature="e#144612#144694#0#HTML" expanded="false" />
-            <element signature="e#144943#147124#0#HTML" expanded="false" />
-            <element signature="e#147162#147243#0#HTML" expanded="false" />
-            <element signature="e#147285#147393#0#HTML" expanded="false" />
-            <element signature="e#147431#147512#0#HTML" expanded="false" />
-            <element signature="e#147592#148451#0#Twig" expanded="false" />
-            <element signature="e#148529#149098#0#HTML" expanded="false" />
-            <element signature="e#149179#149754#0#HTML" expanded="false" />
+            <element signature="e#148888#149747#0#Twig" expanded="false" />
             <element signature="n#script#8;n#div#0;n#!!top" expanded="false" />
-            <marker date="1505331383460" expanded="true" signature="139020:139027" ph="×" />
-            <marker date="1505331383460" expanded="true" signature="139330:139337" ph="×" />
-            <marker date="1505331383460" expanded="true" signature="141323:141330" ph="×" />
-            <marker date="1505331383460" expanded="true" signature="141637:141644" ph="×" />
-            <marker date="1505331383460" expanded="true" signature="143666:143673" ph="×" />
-            <marker date="1505331383460" expanded="true" signature="143975:143982" ph="×" />
-            <marker date="1505331383460" expanded="true" signature="145107:145121" ph="..." />
-            <marker date="1505331383460" expanded="true" signature="150294:150308" ph="..." />
+            <marker date="1505844259409" expanded="true" signature="140316:140323" ph="×" />
+            <marker date="1505844259409" expanded="true" signature="140626:140633" ph="×" />
+            <marker date="1505844259409" expanded="true" signature="142619:142626" ph="×" />
+            <marker date="1505844259409" expanded="true" signature="142933:142940" ph="×" />
+            <marker date="1505844259409" expanded="true" signature="144962:144969" ph="×" />
+            <marker date="1505844259409" expanded="true" signature="145271:145278" ph="×" />
+            <marker date="1505844259409" expanded="true" signature="146403:146417" ph="..." />
+            <marker date="1505844259409" expanded="true" signature="151634:151648" ph="..." />
           </folding>
         </state>
       </provider>
@@ -721,7 +857,9 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="23698">
           <caret line="1394" column="51" lean-forward="false" selection-start-line="1394" selection-start-column="51" selection-end-line="1394" selection-end-column="51" />
-          <folding />
+          <folding>
+            <element signature="n#autocomplete#0;n#ControllerCustomerCustomer#0;n#!!top" expanded="false" />
+          </folding>
         </state>
       </provider>
     </entry>
@@ -729,7 +867,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -737,7 +874,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -773,7 +909,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -781,7 +916,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -860,131 +994,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="255">
           <caret line="15" column="27" lean-forward="false" selection-start-line="15" selection-start-column="27" selection-end-line="15" selection-end-column="27" />
-          <folding>
-            <marker date="1499383063362" expanded="true" signature="820:850" ph="SELECT * FRO... ${$table}" />
-            <marker date="1499383063362" expanded="true" signature="1587:1712" ph="INSERT INTO `${$table}`... " />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/admin/controller/tool/backup.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-238">
-          <caret line="9" column="0" lean-forward="false" selection-start-line="9" selection-start-column="0" selection-end-line="9" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/admin/model/catalog/product.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="157">
-          <caret line="130" column="0" lean-forward="true" selection-start-line="130" selection-start-column="0" selection-end-line="130" selection-end-column="0" />
-          <folding>
-            <marker date="1500317941345" expanded="true" signature="105:1475" ph="INSERT INTO ${DB_PREFIX}product... " />
-            <marker date="1500317941345" expanded="true" signature="1805:2316" ph="INSERT INTO ${DB_PREFIX}product_description... " />
-            <marker date="1500317941345" expanded="true" signature="2437:2563" ph="INSERT INTO ${DB_PREFIX}product_to_store... " />
-            <marker date="1500317941345" expanded="true" signature="2780:2941" ph="DELETE FROM " />
-            <marker date="1500317941345" expanded="true" signature="3089:3296" ph="DELETE FROM " />
-            <marker date="1500317941345" expanded="true" signature="3325:3601" ph="INSERT INTO ${DB_PREFIX}product_attribute... " />
-            <marker date="1500317941345" expanded="true" signature="3973:4172" ph="INSERT INTO ${DB_PREFIX}product_option... " />
-            <marker date="1500317941345" expanded="true" signature="4337:5165" ph="INSERT INTO ${DB_PREFIX}product_option_value... " />
-            <marker date="1500317941345" expanded="true" signature="5220:5482" ph="INSERT INTO ${DB_PREFIX}product_option... " />
-            <marker date="1500317941345" expanded="true" signature="5623:5800" ph="INSERT INTO `${DB_PREFIX}product_recurring`... " />
-            <marker date="1500317941345" expanded="true" signature="5976:6453" ph="INSERT INTO ${DB_PREFIX}product_discount... " />
-            <marker date="1500317941345" expanded="true" signature="6590:7004" ph="INSERT INTO ${DB_PREFIX}product_special... " />
-            <marker date="1500317941345" expanded="true" signature="7135:7341" ph="INSERT INTO ${DB_PREFIX}product_image... " />
-            <marker date="1500317941345" expanded="true" signature="7476:7611" ph="INSERT INTO ${DB_PREFIX}product_to_download... " />
-            <marker date="1500317941345" expanded="true" signature="7746:7881" ph="INSERT INTO ${DB_PREFIX}product_to_category... " />
-            <marker date="1500317941345" expanded="true" signature="8268:8402" ph="DELETE FROM " />
-            <marker date="1500317941345" expanded="true" signature="8428:8557" ph="INSERT INTO ${DB_PREFIX}product_related... " />
-            <marker date="1500317941345" expanded="true" signature="8583:8717" ph="DELETE FROM " />
-            <marker date="1500317941345" expanded="true" signature="9075:9268" ph="INSERT INTO ${DB_PREFIX}product_reward... " />
-            <marker date="1500317941345" expanded="true" signature="9517:9732" ph="INSERT INTO ${DB_PREFIX}seo_url... " />
-            <marker date="1500317941345" expanded="true" signature="9889:10055" ph="INSERT INTO ${DB_PREFIX}product_to_layout... " />
-            <marker date="1500317941345" expanded="true" signature="11813:11907" ph="DELETE FROM " />
-            <marker date="1500317941345" expanded="true" signature="12542:12633" ph="DELETE FROM " />
-            <marker date="1500317941345" expanded="true" signature="12910:13002" ph="DELETE FROM " />
-            <marker date="1500317941345" expanded="true" signature="13211:13372" ph="DELETE FROM " />
-            <marker date="1500317941345" expanded="true" signature="13520:13796" ph="INSERT INTO ${DB_PREFIX}product_attribute... " />
-            <marker date="1500317941345" expanded="true" signature="13843:13932" ph="DELETE FROM " />
-            <marker date="1500317941345" expanded="true" signature="13956:14051" ph="DELETE FROM " />
-            <marker date="1500317941345" expanded="true" signature="14401:14673" ph="INSERT INTO ${DB_PREFIX}product_option... " />
-            <marker date="1500317941345" expanded="true" signature="14838:15757" ph="INSERT INTO ${DB_PREFIX}product_option_value... " />
-            <marker date="1500317941345" expanded="true" signature="15812:16147" ph="INSERT INTO ${DB_PREFIX}product_option... " />
-            <marker date="1500317941345" expanded="true" signature="16187:16255" ph="DELETE FROM " />
-            <marker date="1500317941345" expanded="true" signature="16408:16593" ph="INSERT INTO `${DB_PREFIX}product_recurring`... " />
-            <marker date="1500317941345" expanded="true" signature="16671:16762" ph="DELETE FROM " />
-            <marker date="1500317941345" expanded="true" signature="16893:17370" ph="INSERT INTO ${DB_PREFIX}product_discount... " />
-            <marker date="1500317941345" expanded="true" signature="17404:17494" ph="DELETE FROM " />
-            <marker date="1500317941345" expanded="true" signature="17622:18036" ph="INSERT INTO ${DB_PREFIX}product_special... " />
-            <marker date="1500317941345" expanded="true" signature="18070:18158" ph="DELETE FROM " />
-            <marker date="1500317941345" expanded="true" signature="18280:18486" ph="INSERT INTO ${DB_PREFIX}product_image... " />
-            <marker date="1500317941345" expanded="true" signature="18520:18614" ph="DELETE FROM " />
-            <marker date="1500317941345" expanded="true" signature="18740:18875" ph="INSERT INTO ${DB_PREFIX}product_to_download... " />
-            <marker date="1500317941345" expanded="true" signature="18909:19003" ph="DELETE FROM " />
-            <marker date="1500317941345" expanded="true" signature="19129:19264" ph="INSERT INTO ${DB_PREFIX}product_to_category... " />
-            <marker date="1500317941345" expanded="true" signature="19298:19387" ph="DELETE FROM " />
-            <marker date="1500317941345" expanded="true" signature="19507:19633" ph="INSERT INTO ${DB_PREFIX}product_filter... " />
-            <marker date="1500317941345" expanded="true" signature="19667:19757" ph="DELETE FROM " />
-            <marker date="1500317941345" expanded="true" signature="19781:19871" ph="DELETE FROM " />
-            <marker date="1500317941345" expanded="true" signature="19994:20128" ph="DELETE FROM " />
-            <marker date="1500317941345" expanded="true" signature="20154:20283" ph="INSERT INTO ${DB_PREFIX}product_related... " />
-            <marker date="1500317941345" expanded="true" signature="20309:20443" ph="DELETE FROM " />
-            <marker date="1500317941345" expanded="true" signature="20469:20598" ph="INSERT INTO ${DB_PREFIX}product_related... " />
-            <marker date="1500317941345" expanded="true" signature="20897:21081" ph="INSERT INTO ${DB_PREFIX}product_reward... " />
-            <marker date="1500317941345" expanded="true" signature="21444:21659" ph="INSERT INTO ${DB_PREFIX}seo_url... " />
-            <marker date="1500317941345" expanded="true" signature="21708:21800" ph="DELETE FROM " />
-            <marker date="1500317941345" expanded="true" signature="21933:22099" ph="INSERT INTO ${DB_PREFIX}product_to_layout... " />
-            <marker date="1500317941345" expanded="true" signature="22225:22322" ph="SELECT DISTI... ${DB_PREFIX}" />
-            <marker date="1500317941345" expanded="true" signature="23585:23667" ph="DELETE FROM " />
-            <marker date="1500317941345" expanded="true" signature="23691:23783" ph="DELETE FROM " />
-            <marker date="1500317941345" expanded="true" signature="23807:23901" ph="DELETE FROM " />
-            <marker date="1500317941345" expanded="true" signature="23925:24016" ph="DELETE FROM " />
-            <marker date="1500317941345" expanded="true" signature="24040:24129" ph="DELETE FROM " />
-            <marker date="1500317941345" expanded="true" signature="24153:24241" ph="DELETE FROM " />
-            <marker date="1500317941345" expanded="true" signature="24265:24354" ph="DELETE FROM " />
-            <marker date="1500317941345" expanded="true" signature="24378:24473" ph="DELETE FROM " />
-            <marker date="1500317941345" expanded="true" signature="24497:24587" ph="DELETE FROM " />
-            <marker date="1500317941345" expanded="true" signature="24611:24701" ph="DELETE FROM " />
-            <marker date="1500317941345" expanded="true" signature="24725:24814" ph="DELETE FROM " />
-            <marker date="1500317941345" expanded="true" signature="24838:24928" ph="DELETE FROM " />
-            <marker date="1500317941345" expanded="true" signature="24952:25046" ph="DELETE FROM " />
-            <marker date="1500317941345" expanded="true" signature="25070:25164" ph="DELETE FROM " />
-            <marker date="1500317941345" expanded="true" signature="25188:25280" ph="DELETE FROM " />
-            <marker date="1500317941345" expanded="true" signature="25304:25395" ph="DELETE FROM " />
-            <marker date="1500317941345" expanded="true" signature="25419:25485" ph="DELETE FROM " />
-            <marker date="1500317941345" expanded="true" signature="25528:25609" ph="DELETE FROM " />
-            <marker date="1500317941345" expanded="true" signature="25633:25721" ph="DELETE FROM " />
-            <marker date="1500317941345" expanded="true" signature="25950:26208" ph="SELECT DISTI... ${DB_PREFIX}" />
-            <marker date="1500317941345" expanded="true" signature="26297:26500" ph="SELECT * FRO... ${DB_PREFIX}" />
-            <marker date="1500317941345" expanded="true" signature="28016:28376" ph="SELECT * FRO... ${DB_PREFIX}" />
-            <marker date="1500317941345" expanded="true" signature="28532:28628" ph="SELECT * FRO... ${DB_PREFIX}" />
-            <marker date="1500317941345" expanded="true" signature="29541:29632" ph="SELECT * FRO... ${DB_PREFIX}" />
-            <marker date="1500317941345" expanded="true" signature="29903:30030" ph="SELECT attri... ${DB_PREFIX}" />
-            <marker date="1500317941345" expanded="true" signature="30213:30376" ph="SELECT * FRO... ${DB_PREFIX}" />
-            <marker date="1500317941345" expanded="true" signature="30991:31320" ph="SELECT * FRO... ${DB_PREFIX}product_option" />
-            <marker date="1500317941345" expanded="true" signature="31479:31731" ph="SELECT * FRO... ${DB_PREFIX}" />
-            <marker date="1500317941345" expanded="true" signature="33183:33778" ph="SELECT pov.o... ${DB_PREFIX}" />
-            <marker date="1500317941345" expanded="true" signature="34114:34242" ph="SELECT * FRO... ${DB_PREFIX}" />
-            <marker date="1500317941345" expanded="true" signature="34354:34471" ph="SELECT * FRO... ${DB_PREFIX}" />
-            <marker date="1500317941345" expanded="true" signature="34617:34708" ph="SELECT * FRO... ${DB_PREFIX}" />
-            <marker date="1500317941345" expanded="true" signature="35003:35099" ph="SELECT * FRO... ${DB_PREFIX}" />
-            <marker date="1500317941345" expanded="true" signature="35350:35443" ph="SELECT * FRO... ${DB_PREFIX}" />
-            <marker date="1500317941345" expanded="true" signature="35691:35781" ph="SELECT * FRO... ${DB_PREFIX}" />
-            <marker date="1500317941345" expanded="true" signature="36072:36166" ph="SELECT * FRO... ${DB_PREFIX}" />
-            <marker date="1500317941345" expanded="true" signature="36433:36525" ph="SELECT * FRO... ${DB_PREFIX}" />
-            <marker date="1500317941345" expanded="true" signature="36736:36832" ph="SELECT * FRO... ${DB_PREFIX}product_recurring" />
-            <marker date="1500317941345" expanded="true" signature="36927:37087" ph="SELECT COUNT... ${DB_PREFIX}" />
-            <marker date="1500317941345" expanded="true" signature="38062:38166" ph="SELECT COUNT... ${DB_PREFIX}" />
-            <marker date="1500317941345" expanded="true" signature="38304:38414" ph="SELECT COUNT... ${DB_PREFIX}" />
-            <marker date="1500317941345" expanded="true" signature="38800:38910" ph="SELECT COUNT... ${DB_PREFIX}" />
-            <marker date="1500317941345" expanded="true" signature="39041:39155" ph="SELECT COUNT... ${DB_PREFIX}" />
-            <marker date="1500317941345" expanded="true" signature="39294:39404" ph="SELECT COUNT... ${DB_PREFIX}" />
-            <marker date="1500317941345" expanded="true" signature="39537:39651" ph="SELECT COUNT... ${DB_PREFIX}" />
-            <marker date="1500317941345" expanded="true" signature="39778:39883" ph="SELECT COUNT... ${DB_PREFIX}" />
-            <marker date="1500317941345" expanded="true" signature="40014:40128" ph="SELECT COUNT... ${DB_PREFIX}" />
-            <marker date="1500317941345" expanded="true" signature="40255:40363" ph="SELECT COUNT... ${DB_PREFIX}" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -996,10 +1005,53 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/admin/view/template/tool/backup.twig">
+    <entry file="file://$PROJECT_DIR$/admin/view/template/customer/customer_ip.twig">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="68">
+          <caret line="4" column="50" lean-forward="false" selection-start-line="4" selection-start-column="50" selection-end-line="4" selection-end-column="50" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/admin/view/template/customer/customer_list.twig">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-3596">
+          <caret line="6" column="129" lean-forward="true" selection-start-line="6" selection-start-column="8" selection-end-line="6" selection-end-column="129" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/admin/view/template/catalog/product_list.twig">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="17">
-          <caret line="83" column="62" lean-forward="false" selection-start-line="83" selection-start-column="62" selection-end-line="83" selection-end-column="62" />
+          <caret line="57" column="30" lean-forward="true" selection-start-line="57" selection-start-column="30" selection-end-line="57" selection-end-column="30" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/system/engine/controller.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="102">
+          <caret line="12" column="15" lean-forward="false" selection-start-line="12" selection-start-column="15" selection-end-line="12" selection-end-column="15" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/.gitignore">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="6" lean-forward="true" selection-start-line="0" selection-start-column="6" selection-end-line="0" selection-end-column="6" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/admin/view/template/customer/customer_history.twig">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="204">
+          <caret line="12" column="59" lean-forward="false" selection-start-line="12" selection-start-column="59" selection-end-line="12" selection-end-column="59" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/admin/view/template/tool/backup.twig">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="382">
+          <caret line="81" column="130" lean-forward="false" selection-start-line="81" selection-start-column="124" selection-end-line="81" selection-end-column="130" />
           <folding>
             <marker date="1500060408092" expanded="true" signature="3839:3853" ph="..." />
             <marker date="1500060408092" expanded="true" signature="4993:5000" ph="×" />
@@ -1010,169 +1062,271 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/admin/view/template/customer/customer_ip.twig">
+    <entry file="file://$PROJECT_DIR$/admin/controller/tool/backup.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="68">
-          <caret line="4" column="50" lean-forward="false" selection-start-line="4" selection-start-column="50" selection-end-line="4" selection-end-column="50" />
+        <state relative-caret-position="549">
+          <caret line="61" column="34" lean-forward="true" selection-start-line="61" selection-start-column="34" selection-end-line="61" selection-end-column="34" />
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/admin/view/template/customer/customer_list.twig">
+    <entry file="file://$PROJECT_DIR$/admin/view/template/customer/customer_form.twig">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-3596">
-          <caret line="6" column="129" lean-forward="true" selection-start-line="6" selection-start-column="8" selection-end-line="6" selection-end-column="129" />
-          <folding />
+        <state relative-caret-position="1912">
+          <caret line="1846" column="35" lean-forward="true" selection-start-line="1846" selection-start-column="35" selection-end-line="1846" selection-end-column="35" />
+          <folding>
+            <element signature="n#script#0;n#div#0;n#!!top" expanded="false" />
+            <element signature="n#script#1;n#div#0;n#!!top" expanded="false" />
+            <element signature="n#script#2;n#div#0;n#!!top" expanded="false" />
+            <element signature="n#script#3;n#div#0;n#!!top" expanded="false" />
+            <element signature="e#136981#138889#0#HTML" expanded="false" />
+            <element signature="n#script#4;n#div#0;n#!!top" expanded="false" />
+            <element signature="e#139087#139174#0#HTML" expanded="false" />
+            <element signature="n#script#5;n#div#0;n#!!top" expanded="false" />
+            <element signature="n#script#6;n#div#0;n#!!top" expanded="false" />
+            <element signature="e#148888#149747#0#Twig" expanded="false" />
+            <element signature="n#script#8;n#div#0;n#!!top" expanded="false" />
+            <marker date="1505844259409" expanded="true" signature="140316:140323" ph="×" />
+            <marker date="1505844259409" expanded="true" signature="140626:140633" ph="×" />
+            <marker date="1505844259409" expanded="true" signature="142619:142626" ph="×" />
+            <marker date="1505844259409" expanded="true" signature="142933:142940" ph="×" />
+            <marker date="1505844259409" expanded="true" signature="144962:144969" ph="×" />
+            <marker date="1505844259409" expanded="true" signature="145271:145278" ph="×" />
+            <marker date="1505844259409" expanded="true" signature="146403:146417" ph="..." />
+            <marker date="1505844259409" expanded="true" signature="151634:151648" ph="..." />
+          </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/admin/view/template/catalog/product_list.twig">
+    <entry file="file://$PROJECT_DIR$/admin/view/template/customer/customer_import.twig">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="17">
-          <caret line="57" column="30" lean-forward="true" selection-start-line="57" selection-start-column="30" selection-end-line="57" selection-end-column="30" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/admin/view/template/customer/customer_history.twig">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="204">
-          <caret line="12" column="59" lean-forward="true" selection-start-line="12" selection-start-column="59" selection-end-line="12" selection-end-column="59" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/system/engine/controller.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="102">
-          <caret line="12" column="15" lean-forward="false" selection-start-line="12" selection-start-column="15" selection-end-line="12" selection-end-column="15" />
+        <state relative-caret-position="600">
+          <caret line="47" column="27" lean-forward="true" selection-start-line="47" selection-start-column="27" selection-end-line="47" selection-end-column="27" />
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/admin/model/customer/customer.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="333">
-          <caret line="528" column="197" lean-forward="false" selection-start-line="528" selection-start-column="197" selection-end-line="528" selection-end-column="197" />
+        <state relative-caret-position="707">
+          <caret line="558" column="44" lean-forward="false" selection-start-line="558" selection-start-column="20" selection-end-line="558" selection-end-column="44" />
           <folding>
-            <marker date="1505333040132" expanded="true" signature="124:939" ph="INSERT INTO ${DB_PREFIX}customer... " />
-            <marker date="1505333040132" expanded="true" signature="1128:1922" ph="INSERT INTO ${DB_PREFIX}address... " />
-            <marker date="1505333040132" expanded="true" signature="2323:3489" ph="INSERT INTO ${DB_PREFIX}customer_affiliate... " />
-            <marker date="1505333040132" expanded="true" signature="4667:4751" ph="DELETE FROM " />
-            <marker date="1505333040132" expanded="true" signature="4892:5740" ph="INSERT INTO ${DB_PREFIX}address... " />
-            <marker date="1505333040132" expanded="true" signature="6141:7162" ph="REPLACE INTO... ${DB_PREFIX}" />
-            <marker date="1505333040132" expanded="true" signature="7495:7580" ph="DELETE FROM " />
-            <marker date="1505333040132" expanded="true" signature="7612:7706" ph="DELETE FROM " />
-            <marker date="1505333040132" expanded="true" signature="7738:7833" ph="DELETE FROM " />
-            <marker date="1505333040132" expanded="true" signature="7865:7959" ph="DELETE FROM " />
-            <marker date="1505333040132" expanded="true" signature="7991:8083" ph="DELETE FROM " />
-            <marker date="1505333040132" expanded="true" signature="8115:8212" ph="DELETE FROM " />
-            <marker date="1505333040132" expanded="true" signature="8244:8332" ph="DELETE FROM " />
-            <marker date="1505333040132" expanded="true" signature="8364:8448" ph="DELETE FROM " />
-            <marker date="1505333040132" expanded="true" signature="8549:8645" ph="SELECT DISTI... ${DB_PREFIX}" />
-            <marker date="1505333040132" expanded="true" signature="8776:8902" ph="SELECT DISTI... ${DB_PREFIX}" />
-            <marker date="1505333040132" expanded="true" signature="9016:9238" ph="SELECT *, CO... ${DB_PREFIX}" />
-            <marker date="1505333040132" expanded="true" signature="12176:12260" ph="SELECT * FRO... ${DB_PREFIX}" />
-            <marker date="1505333040132" expanded="true" signature="12356:12466" ph="SELECT * FRO... ${DB_PREFIX}country" />
-            <marker date="1505333040132" expanded="true" signature="13003:13104" ph="SELECT * FRO... ${DB_PREFIX}zone" />
-            <marker date="1505333040132" expanded="true" signature="14615:14710" ph="SELECT addre... ${DB_PREFIX}" />
-            <marker date="1505333040132" expanded="true" signature="15084:15139" ph="SELECT COUNT... ${DB_PREFIX}" />
-            <marker date="1505333040132" expanded="true" signature="16739:16846" ph="SELECT * FRO... ${DB_PREFIX}" />
-            <marker date="1505333040132" expanded="true" signature="16977:17074" ph="SELECT * FRO... ${DB_PREFIX}" />
-            <marker date="1505333040132" expanded="true" signature="17189:17370" ph="SELECT DISTI... ${DB_PREFIX}" />
-            <marker date="1505333040132" expanded="true" signature="18225:18376" ph="SELECT DISTI... ${DB_PREFIX}" />
-            <marker date="1505333040132" expanded="true" signature="18848:18950" ph="SELECT COUNT... ${DB_PREFIX}" />
-            <marker date="1505333040132" expanded="true" signature="19107:19207" ph="SELECT COUNT... ${DB_PREFIX}" />
-            <marker date="1505333040132" expanded="true" signature="19358:19452" ph="SELECT COUNT... ${DB_PREFIX}" />
-            <marker date="1505333040132" expanded="true" signature="19622:19737" ph="SELECT COUNT... ${DB_PREFIX}" />
-            <marker date="1505333040132" expanded="true" signature="19878:20054" ph="INSERT INTO ${DB_PREFIX}customer_history... " />
-            <marker date="1505333040132" expanded="true" signature="20308:20473" ph="SELECT comme... ${DB_PREFIX}" />
-            <marker date="1505333040132" expanded="true" signature="20624:20735" ph="SELECT COUNT... ${DB_PREFIX}" />
-            <marker date="1505333040132" expanded="true" signature="20918:21164" ph="INSERT INTO ${DB_PREFIX}customer_transaction... " />
-            <marker date="1505333040132" expanded="true" signature="21268:21359" ph="DELETE FROM " />
-            <marker date="1505333040132" expanded="true" signature="21616:21767" ph="SELECT * FRO... ${DB_PREFIX}" />
-            <marker date="1505333040132" expanded="true" signature="21921:22037" ph="SELECT COUNT... ${DB_PREFIX}" />
-            <marker date="1505333040132" expanded="true" signature="22186:22304" ph="SELECT SUM(a... ${DB_PREFIX}" />
-            <marker date="1505333040132" expanded="true" signature="22460:22569" ph="SELECT COUNT... ${DB_PREFIX}" />
-            <marker date="1505333040132" expanded="true" signature="22747:22986" ph="INSERT INTO ${DB_PREFIX}customer_reward... " />
-            <marker date="1505333040132" expanded="true" signature="23076:23177" ph="DELETE FROM " />
-            <marker date="1505333040132" expanded="true" signature="23302:23448" ph="SELECT * FRO... ${DB_PREFIX}" />
-            <marker date="1505333040132" expanded="true" signature="23597:23707" ph="SELECT COUNT... ${DB_PREFIX}" />
-            <marker date="1505333040132" expanded="true" signature="23851:23964" ph="SELECT SUM(p... ${DB_PREFIX}" />
-            <marker date="1505333040132" expanded="true" signature="24123:24242" ph="SELECT COUNT... ${DB_PREFIX}" />
-            <marker date="1505333040132" expanded="true" signature="24529:24671" ph="SELECT * FRO... ${DB_PREFIX}" />
-            <marker date="1505333040132" expanded="true" signature="24816:24922" ph="SELECT COUNT... ${DB_PREFIX}" />
-            <marker date="1505333040132" expanded="true" signature="25064:25168" ph="SELECT COUNT... ${DB_PREFIX}" />
-            <marker date="1505333040132" expanded="true" signature="25313:25414" ph="SELECT * FRO... ${DB_PREFIX}customer_login" />
-            <marker date="1505333040132" expanded="true" signature="25537:25636" ph="DELETE FROM " />
-            <marker date="1505333040132" expanded="true" signature="25761:26018" ph="SELECT * FRO... ${DB_PREFIX}" />
-            <marker date="1505333040132" expanded="true" signature="26168:26278" ph="SELECT COUNT... ${DB_PREFIX}" />
-            <marker date="1505333040132" expanded="true" signature="26402:26476" ph="DELETE FROM " />
-            <marker date="1505333040132" expanded="true" signature="26609:26730" ph="INSERT INTO ${DB_PREFIX}customer_import... " />
-            <marker date="1505333040132" expanded="true" signature="26609:26838" ph="INSERT INTO ${DB_PREFIX}customer_import... " />
+            <marker date="1505848634567" expanded="true" signature="124:939" ph="INSERT INTO ${DB_PREFIX}customer... " />
+            <marker date="1505848634567" expanded="true" signature="1128:1922" ph="INSERT INTO ${DB_PREFIX}address... " />
+            <marker date="1505848634567" expanded="true" signature="2323:3489" ph="INSERT INTO ${DB_PREFIX}customer_affiliate... " />
+            <marker date="1505848634567" expanded="true" signature="4667:4751" ph="DELETE FROM " />
+            <marker date="1505848634567" expanded="true" signature="4892:5740" ph="INSERT INTO ${DB_PREFIX}address... " />
+            <marker date="1505848634567" expanded="true" signature="6141:7162" ph="REPLACE INTO... ${DB_PREFIX}" />
+            <marker date="1505848634567" expanded="true" signature="7495:7580" ph="DELETE FROM " />
+            <marker date="1505848634567" expanded="true" signature="7612:7706" ph="DELETE FROM " />
+            <marker date="1505848634567" expanded="true" signature="7738:7833" ph="DELETE FROM " />
+            <marker date="1505848634567" expanded="true" signature="7865:7959" ph="DELETE FROM " />
+            <marker date="1505848634567" expanded="true" signature="7991:8083" ph="DELETE FROM " />
+            <marker date="1505848634567" expanded="true" signature="8115:8212" ph="DELETE FROM " />
+            <marker date="1505848634567" expanded="true" signature="8244:8332" ph="DELETE FROM " />
+            <marker date="1505848634567" expanded="true" signature="8364:8448" ph="DELETE FROM " />
+            <marker date="1505848634567" expanded="true" signature="8549:8645" ph="SELECT DISTI... ${DB_PREFIX}" />
+            <marker date="1505848634567" expanded="true" signature="8776:8902" ph="SELECT DISTI... ${DB_PREFIX}" />
+            <marker date="1505848634567" expanded="true" signature="9016:9238" ph="SELECT *, CO... ${DB_PREFIX}" />
+            <marker date="1505848634567" expanded="true" signature="12176:12260" ph="SELECT * FRO... ${DB_PREFIX}" />
+            <marker date="1505848634567" expanded="true" signature="12356:12466" ph="SELECT * FRO... ${DB_PREFIX}country" />
+            <marker date="1505848634567" expanded="true" signature="13003:13104" ph="SELECT * FRO... ${DB_PREFIX}zone" />
+            <marker date="1505848634567" expanded="true" signature="14615:14710" ph="SELECT addre... ${DB_PREFIX}" />
+            <marker date="1505848634567" expanded="true" signature="15084:15139" ph="SELECT COUNT... ${DB_PREFIX}" />
+            <marker date="1505848634567" expanded="true" signature="16739:16846" ph="SELECT * FRO... ${DB_PREFIX}" />
+            <marker date="1505848634567" expanded="true" signature="16977:17074" ph="SELECT * FRO... ${DB_PREFIX}" />
+            <marker date="1505848634567" expanded="true" signature="17189:17370" ph="SELECT DISTI... ${DB_PREFIX}" />
+            <marker date="1505848634567" expanded="true" signature="18225:18376" ph="SELECT DISTI... ${DB_PREFIX}" />
+            <marker date="1505848634567" expanded="true" signature="18848:18950" ph="SELECT COUNT... ${DB_PREFIX}" />
+            <marker date="1505848634567" expanded="true" signature="19107:19207" ph="SELECT COUNT... ${DB_PREFIX}" />
+            <marker date="1505848634567" expanded="true" signature="19358:19452" ph="SELECT COUNT... ${DB_PREFIX}" />
+            <marker date="1505848634567" expanded="true" signature="19622:19737" ph="SELECT COUNT... ${DB_PREFIX}" />
+            <marker date="1505848634567" expanded="true" signature="19878:20054" ph="INSERT INTO ${DB_PREFIX}customer_history... " />
+            <marker date="1505848634567" expanded="true" signature="20308:20473" ph="SELECT comme... ${DB_PREFIX}" />
+            <marker date="1505848634567" expanded="true" signature="20624:20735" ph="SELECT COUNT... ${DB_PREFIX}" />
+            <marker date="1505848634567" expanded="true" signature="20918:21164" ph="INSERT INTO ${DB_PREFIX}customer_transaction... " />
+            <marker date="1505848634567" expanded="true" signature="21268:21359" ph="DELETE FROM " />
+            <marker date="1505848634567" expanded="true" signature="21616:21767" ph="SELECT * FRO... ${DB_PREFIX}" />
+            <marker date="1505848634567" expanded="true" signature="21921:22037" ph="SELECT COUNT... ${DB_PREFIX}" />
+            <marker date="1505848634567" expanded="true" signature="22186:22304" ph="SELECT SUM(a... ${DB_PREFIX}" />
+            <marker date="1505848634567" expanded="true" signature="22460:22569" ph="SELECT COUNT... ${DB_PREFIX}" />
+            <marker date="1505848634567" expanded="true" signature="22747:22986" ph="INSERT INTO ${DB_PREFIX}customer_reward... " />
+            <marker date="1505848634567" expanded="true" signature="23076:23177" ph="DELETE FROM " />
+            <marker date="1505848634567" expanded="true" signature="23302:23448" ph="SELECT * FRO... ${DB_PREFIX}" />
+            <marker date="1505848634567" expanded="true" signature="23597:23707" ph="SELECT COUNT... ${DB_PREFIX}" />
+            <marker date="1505848634567" expanded="true" signature="23851:23964" ph="SELECT SUM(p... ${DB_PREFIX}" />
+            <marker date="1505848634567" expanded="true" signature="24123:24242" ph="SELECT COUNT... ${DB_PREFIX}" />
+            <marker date="1505848634567" expanded="true" signature="24529:24671" ph="SELECT * FRO... ${DB_PREFIX}" />
+            <marker date="1505848634567" expanded="true" signature="24816:24922" ph="SELECT COUNT... ${DB_PREFIX}" />
+            <marker date="1505848634567" expanded="true" signature="25064:25168" ph="SELECT COUNT... ${DB_PREFIX}" />
+            <marker date="1505848634567" expanded="true" signature="25313:25414" ph="SELECT * FRO... ${DB_PREFIX}customer_login" />
+            <marker date="1505848634567" expanded="true" signature="25537:25636" ph="DELETE FROM " />
+            <marker date="1505848634567" expanded="true" signature="25761:26106" ph="SELECT * FRO... ${DB_PREFIX}" />
+            <marker date="1505848634567" expanded="true" signature="26256:26366" ph="SELECT COUNT... ${DB_PREFIX}" />
+            <marker date="1505848634567" expanded="true" signature="26541:26770" ph="INSERT INTO ${DB_PREFIX}customer_import... " />
+            <marker date="1505848634567" expanded="true" signature="27140:27197" ph="DELETE FROM " />
+            <marker date="1505848634567" expanded="true" signature="27140:27208" ph="DELETE FROM " />
+            <marker date="1505848634567" expanded="true" signature="27140:27209" ph="DELETE FROM " />
+            <marker date="1505848634567" expanded="true" signature="27140:27249" ph="DELETE FROM " />
+            <marker date="1505848634567" expanded="true" signature="27349:27436" ph="DELETE FROM " />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/admin/view/template/customer/customer_form.twig">
+    <entry file="file://$PROJECT_DIR$/admin/model/catalog/product.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="481">
-          <caret line="1816" column="32" lean-forward="false" selection-start-line="1816" selection-start-column="32" selection-end-line="1816" selection-end-column="32" />
+        <state relative-caret-position="272">
+          <caret line="357" column="47" lean-forward="true" selection-start-line="357" selection-start-column="47" selection-end-line="357" selection-end-column="47" />
           <folding>
-            <element signature="n#script#0;n#div#0;n#!!top" expanded="false" />
-            <element signature="n#script#1;n#div#0;n#!!top" expanded="false" />
-            <element signature="n#script#2;n#div#0;n#!!top" expanded="false" />
-            <element signature="n#script#3;n#div#0;n#!!top" expanded="false" />
-            <element signature="n#script#4;n#div#0;n#!!top" expanded="false" />
-            <element signature="e#137791#137878#0#HTML" expanded="false" />
-            <element signature="e#138068#139827#0#HTML" expanded="false" />
-            <element signature="n#script#5;n#div#0;n#!!top" expanded="false" />
-            <element signature="e#139967#140058#0#HTML" expanded="false" />
-            <element signature="n#script#6;n#div#0;n#!!top" expanded="false" />
-            <element signature="e#142360#142446#0#HTML" expanded="false" />
-            <element signature="e#142633#144543#0#HTML" expanded="false" />
-            <element signature="e#144612#144694#0#HTML" expanded="false" />
-            <element signature="e#144943#147124#0#HTML" expanded="false" />
-            <element signature="e#147162#147243#0#HTML" expanded="false" />
-            <element signature="e#147285#147393#0#HTML" expanded="false" />
-            <element signature="e#147431#147512#0#HTML" expanded="false" />
-            <element signature="e#147592#148451#0#Twig" expanded="false" />
-            <element signature="e#148529#149098#0#HTML" expanded="false" />
-            <element signature="e#149179#149754#0#HTML" expanded="false" />
-            <element signature="n#script#8;n#div#0;n#!!top" expanded="false" />
-            <marker date="1505331383460" expanded="true" signature="139020:139027" ph="×" />
-            <marker date="1505331383460" expanded="true" signature="139330:139337" ph="×" />
-            <marker date="1505331383460" expanded="true" signature="141323:141330" ph="×" />
-            <marker date="1505331383460" expanded="true" signature="141637:141644" ph="×" />
-            <marker date="1505331383460" expanded="true" signature="143666:143673" ph="×" />
-            <marker date="1505331383460" expanded="true" signature="143975:143982" ph="×" />
-            <marker date="1505331383460" expanded="true" signature="145107:145121" ph="..." />
-            <marker date="1505331383460" expanded="true" signature="150294:150308" ph="..." />
+            <element signature="n#addProduct#0;n#ModelCatalogProduct#0;n#!!top" expanded="false" />
+            <element signature="n#editProduct#0;n#ModelCatalogProduct#0;n#!!top" expanded="false" />
+            <element signature="n#copyProduct#0;n#ModelCatalogProduct#0;n#!!top" expanded="false" />
+            <element signature="n#deleteProduct#0;n#ModelCatalogProduct#0;n#!!top" expanded="false" />
+            <element signature="n#getProducts#0;n#ModelCatalogProduct#0;n#!!top" expanded="false" />
+            <element signature="n#getProductsByCategoryId#0;n#ModelCatalogProduct#0;n#!!top" expanded="false" />
+            <element signature="n#getProductDescriptions#0;n#ModelCatalogProduct#0;n#!!top" expanded="false" />
+            <element signature="n#getProductCategories#0;n#ModelCatalogProduct#0;n#!!top" expanded="false" />
+            <element signature="n#getProductFilters#0;n#ModelCatalogProduct#0;n#!!top" expanded="false" />
+            <element signature="n#getProductAttributes#0;n#ModelCatalogProduct#0;n#!!top" expanded="false" />
+            <element signature="n#getProductOptions#0;n#ModelCatalogProduct#0;n#!!top" expanded="false" />
+            <element signature="n#getProductOptionValue#0;n#ModelCatalogProduct#0;n#!!top" expanded="false" />
+            <element signature="n#getProductImages#0;n#ModelCatalogProduct#0;n#!!top" expanded="false" />
+            <element signature="n#getProductDiscounts#0;n#ModelCatalogProduct#0;n#!!top" expanded="false" />
+            <element signature="n#getProductSpecials#0;n#ModelCatalogProduct#0;n#!!top" expanded="false" />
+            <element signature="n#getProductRewards#0;n#ModelCatalogProduct#0;n#!!top" expanded="false" />
+            <element signature="n#getProductDownloads#0;n#ModelCatalogProduct#0;n#!!top" expanded="false" />
+            <element signature="n#getProductSeoUrls#0;n#ModelCatalogProduct#0;n#!!top" expanded="false" />
+            <element signature="n#getProductLayouts#0;n#ModelCatalogProduct#0;n#!!top" expanded="false" />
+            <element signature="n#getProductRelated#0;n#ModelCatalogProduct#0;n#!!top" expanded="false" />
+            <element signature="n#getRecurrings#0;n#ModelCatalogProduct#0;n#!!top" expanded="false" />
+            <marker date="1505847976062" expanded="true" signature="105:1475" ph="INSERT INTO ${DB_PREFIX}product... " />
+            <marker date="1505847976062" expanded="true" signature="1805:2316" ph="INSERT INTO ${DB_PREFIX}product_description... " />
+            <marker date="1505847976062" expanded="true" signature="2437:2563" ph="INSERT INTO ${DB_PREFIX}product_to_store... " />
+            <marker date="1505847976062" expanded="true" signature="2780:2941" ph="DELETE FROM " />
+            <marker date="1505847976062" expanded="true" signature="3089:3296" ph="DELETE FROM " />
+            <marker date="1505847976062" expanded="true" signature="3325:3601" ph="INSERT INTO ${DB_PREFIX}product_attribute... " />
+            <marker date="1505847976062" expanded="true" signature="3973:4172" ph="INSERT INTO ${DB_PREFIX}product_option... " />
+            <marker date="1505847976062" expanded="true" signature="4337:5165" ph="INSERT INTO ${DB_PREFIX}product_option_value... " />
+            <marker date="1505847976062" expanded="true" signature="5220:5482" ph="INSERT INTO ${DB_PREFIX}product_option... " />
+            <marker date="1505847976062" expanded="true" signature="5623:5800" ph="INSERT INTO `${DB_PREFIX}product_recurring`... " />
+            <marker date="1505847976062" expanded="true" signature="5976:6453" ph="INSERT INTO ${DB_PREFIX}product_discount... " />
+            <marker date="1505847976062" expanded="true" signature="6590:7004" ph="INSERT INTO ${DB_PREFIX}product_special... " />
+            <marker date="1505847976062" expanded="true" signature="7135:7341" ph="INSERT INTO ${DB_PREFIX}product_image... " />
+            <marker date="1505847976062" expanded="true" signature="7476:7611" ph="INSERT INTO ${DB_PREFIX}product_to_download... " />
+            <marker date="1505847976062" expanded="true" signature="7746:7881" ph="INSERT INTO ${DB_PREFIX}product_to_category... " />
+            <marker date="1505847976062" expanded="true" signature="8010:8136" ph="INSERT INTO ${DB_PREFIX}product_filter... " />
+            <marker date="1505847976062" expanded="true" signature="8268:8402" ph="DELETE FROM " />
+            <marker date="1505847976062" expanded="true" signature="8428:8557" ph="INSERT INTO ${DB_PREFIX}product_related... " />
+            <marker date="1505847976062" expanded="true" signature="8583:8717" ph="DELETE FROM " />
+            <marker date="1505847976062" expanded="true" signature="8743:8872" ph="INSERT INTO ${DB_PREFIX}product_related... " />
+            <marker date="1505847976062" expanded="true" signature="9075:9268" ph="INSERT INTO ${DB_PREFIX}product_reward... " />
+            <marker date="1505847976062" expanded="true" signature="9517:9732" ph="INSERT INTO ${DB_PREFIX}seo_url... " />
+            <marker date="1505847976062" expanded="true" signature="9889:10055" ph="INSERT INTO ${DB_PREFIX}product_to_layout... " />
+            <marker date="1505847976062" expanded="true" signature="11813:11907" ph="DELETE FROM " />
+            <marker date="1505847976062" expanded="true" signature="12002:12513" ph="INSERT INTO ${DB_PREFIX}product_description... " />
+            <marker date="1505847976062" expanded="true" signature="12542:12633" ph="DELETE FROM " />
+            <marker date="1505847976062" expanded="true" signature="12750:12876" ph="INSERT INTO ${DB_PREFIX}product_to_store... " />
+            <marker date="1505847976062" expanded="true" signature="12910:13002" ph="DELETE FROM " />
+            <marker date="1505847976062" expanded="true" signature="13211:13372" ph="DELETE FROM " />
+            <marker date="1505847976062" expanded="true" signature="13520:13796" ph="INSERT INTO ${DB_PREFIX}product_attribute... " />
+            <marker date="1505847976062" expanded="true" signature="13843:13932" ph="DELETE FROM " />
+            <marker date="1505847976062" expanded="true" signature="13956:14051" ph="DELETE FROM " />
+            <marker date="1505847976062" expanded="true" signature="14401:14673" ph="INSERT INTO ${DB_PREFIX}product_option... " />
+            <marker date="1505847976062" expanded="true" signature="14838:15757" ph="INSERT INTO ${DB_PREFIX}product_option_value... " />
+            <marker date="1505847976062" expanded="true" signature="15812:16147" ph="INSERT INTO ${DB_PREFIX}product_option... " />
+            <marker date="1505847976062" expanded="true" signature="16187:16255" ph="DELETE FROM " />
+            <marker date="1505847976062" expanded="true" signature="16408:16593" ph="INSERT INTO `${DB_PREFIX}product_recurring`... " />
+            <marker date="1505847976062" expanded="true" signature="16671:16762" ph="DELETE FROM " />
+            <marker date="1505847976062" expanded="true" signature="16893:17370" ph="INSERT INTO ${DB_PREFIX}product_discount... " />
+            <marker date="1505847976062" expanded="true" signature="17404:17494" ph="DELETE FROM " />
+            <marker date="1505847976062" expanded="true" signature="17622:18036" ph="INSERT INTO ${DB_PREFIX}product_special... " />
+            <marker date="1505847976062" expanded="true" signature="18070:18158" ph="DELETE FROM " />
+            <marker date="1505847976062" expanded="true" signature="18280:18486" ph="INSERT INTO ${DB_PREFIX}product_image... " />
+            <marker date="1505847976062" expanded="true" signature="18520:18614" ph="DELETE FROM " />
+            <marker date="1505847976062" expanded="true" signature="18740:18875" ph="INSERT INTO ${DB_PREFIX}product_to_download... " />
+            <marker date="1505847976062" expanded="true" signature="18909:19003" ph="DELETE FROM " />
+            <marker date="1505847976062" expanded="true" signature="19129:19264" ph="INSERT INTO ${DB_PREFIX}product_to_category... " />
+            <marker date="1505847976062" expanded="true" signature="19298:19387" ph="DELETE FROM " />
+            <marker date="1505847976062" expanded="true" signature="19507:19633" ph="INSERT INTO ${DB_PREFIX}product_filter... " />
+            <marker date="1505847976062" expanded="true" signature="19667:19757" ph="DELETE FROM " />
+            <marker date="1505847976062" expanded="true" signature="19781:19871" ph="DELETE FROM " />
+            <marker date="1505847976062" expanded="true" signature="19994:20128" ph="DELETE FROM " />
+            <marker date="1505847976062" expanded="true" signature="20154:20283" ph="INSERT INTO ${DB_PREFIX}product_related... " />
+            <marker date="1505847976062" expanded="true" signature="20309:20443" ph="DELETE FROM " />
+            <marker date="1505847976062" expanded="true" signature="20469:20598" ph="INSERT INTO ${DB_PREFIX}product_related... " />
+            <marker date="1505847976062" expanded="true" signature="20632:20721" ph="DELETE FROM " />
+            <marker date="1505847976062" expanded="true" signature="20897:21081" ph="INSERT INTO ${DB_PREFIX}product_reward... " />
+            <marker date="1505847976062" expanded="true" signature="21136:21224" ph="DELETE FROM " />
+            <marker date="1505847976062" expanded="true" signature="21444:21659" ph="INSERT INTO ${DB_PREFIX}seo_url... " />
+            <marker date="1505847976062" expanded="true" signature="21708:21800" ph="DELETE FROM " />
+            <marker date="1505847976062" expanded="true" signature="21933:22099" ph="INSERT INTO ${DB_PREFIX}product_to_layout... " />
+            <marker date="1505847976062" expanded="true" signature="22225:22322" ph="SELECT DISTI... ${DB_PREFIX}" />
+            <marker date="1505847976062" expanded="true" signature="23585:23667" ph="DELETE FROM " />
+            <marker date="1505847976062" expanded="true" signature="23691:23783" ph="DELETE FROM " />
+            <marker date="1505847976062" expanded="true" signature="23807:23901" ph="DELETE FROM " />
+            <marker date="1505847976062" expanded="true" signature="23925:24016" ph="DELETE FROM " />
+            <marker date="1505847976062" expanded="true" signature="24040:24129" ph="DELETE FROM " />
+            <marker date="1505847976062" expanded="true" signature="24153:24241" ph="DELETE FROM " />
+            <marker date="1505847976062" expanded="true" signature="24265:24354" ph="DELETE FROM " />
+            <marker date="1505847976062" expanded="true" signature="24378:24473" ph="DELETE FROM " />
+            <marker date="1505847976062" expanded="true" signature="24497:24587" ph="DELETE FROM " />
+            <marker date="1505847976062" expanded="true" signature="24611:24701" ph="DELETE FROM " />
+            <marker date="1505847976062" expanded="true" signature="24725:24814" ph="DELETE FROM " />
+            <marker date="1505847976062" expanded="true" signature="24838:24928" ph="DELETE FROM " />
+            <marker date="1505847976062" expanded="true" signature="24952:25046" ph="DELETE FROM " />
+            <marker date="1505847976062" expanded="true" signature="25070:25164" ph="DELETE FROM " />
+            <marker date="1505847976062" expanded="true" signature="25188:25280" ph="DELETE FROM " />
+            <marker date="1505847976062" expanded="true" signature="25304:25395" ph="DELETE FROM " />
+            <marker date="1505847976062" expanded="true" signature="25419:25485" ph="DELETE FROM " />
+            <marker date="1505847976062" expanded="true" signature="25528:25609" ph="DELETE FROM " />
+            <marker date="1505847976062" expanded="true" signature="25633:25721" ph="DELETE FROM " />
+            <marker date="1505847976062" expanded="true" signature="25745:25834" ph="DELETE FROM " />
+            <marker date="1505847976062" expanded="true" signature="25950:26208" ph="SELECT DISTI... ${DB_PREFIX}" />
+            <marker date="1505847976062" expanded="true" signature="26316:26360" ph="SELECT * FRO... ${DB_PREFIX}" />
+            <marker date="1505847976062" expanded="true" signature="26316:26368" ph="SELECT * FRO... ${DB_PREFIX}" />
+            <marker date="1505847976062" expanded="true" signature="26316:26382" ph="SELECT * FRO... ${DB_PREFIX}" />
+            <marker date="1505847976062" expanded="true" signature="26477:26680" ph="SELECT * FRO... ${DB_PREFIX}" />
+            <marker date="1505847976062" expanded="true" signature="28196:28556" ph="SELECT * FRO... ${DB_PREFIX}" />
+            <marker date="1505847976062" expanded="true" signature="28712:28808" ph="SELECT * FRO... ${DB_PREFIX}" />
+            <marker date="1505847976062" expanded="true" signature="29372:29468" ph="SELECT * FRO... ${DB_PREFIX}" />
+            <marker date="1505847976062" expanded="true" signature="29721:29812" ph="SELECT * FRO... ${DB_PREFIX}" />
+            <marker date="1505847976062" expanded="true" signature="30083:30210" ph="SELECT attri... ${DB_PREFIX}" />
+            <marker date="1505847976062" expanded="true" signature="30393:30556" ph="SELECT * FRO... ${DB_PREFIX}" />
+            <marker date="1505847976062" expanded="true" signature="31171:31500" ph="SELECT * FRO... ${DB_PREFIX}product_option" />
+            <marker date="1505847976062" expanded="true" signature="31659:31911" ph="SELECT * FRO... ${DB_PREFIX}" />
+            <marker date="1505847976062" expanded="true" signature="33363:33958" ph="SELECT pov.o... ${DB_PREFIX}" />
+            <marker date="1505847976062" expanded="true" signature="34067:34181" ph="SELECT * FRO... ${DB_PREFIX}" />
+            <marker date="1505847976062" expanded="true" signature="34294:34422" ph="SELECT * FRO... ${DB_PREFIX}" />
+            <marker date="1505847976062" expanded="true" signature="34534:34651" ph="SELECT * FRO... ${DB_PREFIX}" />
+            <marker date="1505847976062" expanded="true" signature="34797:34888" ph="SELECT * FRO... ${DB_PREFIX}" />
+            <marker date="1505847976062" expanded="true" signature="35183:35279" ph="SELECT * FRO... ${DB_PREFIX}" />
+            <marker date="1505847976062" expanded="true" signature="35530:35623" ph="SELECT * FRO... ${DB_PREFIX}" />
+            <marker date="1505847976062" expanded="true" signature="35871:35961" ph="SELECT * FRO... ${DB_PREFIX}" />
+            <marker date="1505847976062" expanded="true" signature="36252:36346" ph="SELECT * FRO... ${DB_PREFIX}" />
+            <marker date="1505847976062" expanded="true" signature="36613:36705" ph="SELECT * FRO... ${DB_PREFIX}" />
+            <marker date="1505847976062" expanded="true" signature="36916:37012" ph="SELECT * FRO... ${DB_PREFIX}product_recurring" />
+            <marker date="1505847976062" expanded="true" signature="37107:37267" ph="SELECT COUNT... ${DB_PREFIX}" />
+            <marker date="1505847976062" expanded="true" signature="38242:38346" ph="SELECT COUNT... ${DB_PREFIX}" />
+            <marker date="1505847976062" expanded="true" signature="38484:38594" ph="SELECT COUNT... ${DB_PREFIX}" />
+            <marker date="1505847976062" expanded="true" signature="38732:38842" ph="SELECT COUNT... ${DB_PREFIX}" />
+            <marker date="1505847976062" expanded="true" signature="38980:39090" ph="SELECT COUNT... ${DB_PREFIX}" />
+            <marker date="1505847976062" expanded="true" signature="39221:39335" ph="SELECT COUNT... ${DB_PREFIX}" />
+            <marker date="1505847976062" expanded="true" signature="39474:39584" ph="SELECT COUNT... ${DB_PREFIX}" />
+            <marker date="1505847976062" expanded="true" signature="39717:39831" ph="SELECT COUNT... ${DB_PREFIX}" />
+            <marker date="1505847976062" expanded="true" signature="39958:40063" ph="SELECT COUNT... ${DB_PREFIX}" />
+            <marker date="1505847976062" expanded="true" signature="40194:40308" ph="SELECT COUNT... ${DB_PREFIX}" />
+            <marker date="1505847976062" expanded="true" signature="40435:40543" ph="SELECT COUNT... ${DB_PREFIX}" />
           </folding>
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/admin/controller/customer/customer.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="433">
-          <caret line="1433" column="69" lean-forward="false" selection-start-line="1433" selection-start-column="69" selection-end-line="1433" selection-end-column="69" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/.gitignore">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="6" lean-forward="true" selection-start-line="0" selection-start-column="6" selection-end-line="0" selection-end-column="6" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/admin/view/template/customer/customer_import.twig">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="391">
-          <caret line="23" column="31" lean-forward="false" selection-start-line="23" selection-start-column="31" selection-end-line="23" selection-end-column="31" />
-          <folding />
+        <state relative-caret-position="264">
+          <caret line="1495" column="108" lean-forward="false" selection-start-line="1495" selection-start-column="108" selection-end-line="1495" selection-end-column="108" />
+          <folding>
+            <element signature="n#autocomplete#0;n#ControllerCustomerCustomer#0;n#!!top" expanded="false" />
+          </folding>
         </state>
       </provider>
     </entry>

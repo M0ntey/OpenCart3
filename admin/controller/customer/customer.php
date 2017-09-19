@@ -957,6 +957,10 @@ class ControllerCustomerCustomer extends Controller
         $data[ 'column_left' ] = $this->load->controller( 'common/column_left' );
         $data[ 'footer' ] = $this->load->controller( 'common/footer' );
 
+        $data[ 'action_url' ] = $this->url->link( 'customer/customer/editImport', 'user_token=' . $this->session->data[ 'user_token' ] . '&customer_id=' . $this->request->get[ 'customer_id' ] );
+
+        $data[ 'action_select' ] = $this->url->link( 'customer/customer/selectImport', 'user_token=' . $this->session->data[ 'user_token' ] . '&customer_id=' . $this->request->get[ 'customer_id' ] );
+
         $this->response->setOutput( $this->load->view( 'customer/customer_form', $data ) );
     }
 
@@ -1431,14 +1435,15 @@ class ControllerCustomerCustomer extends Controller
                 'id' => $result[ 'id' ],
                 'product_id' => $result[ 'product_id' ],
                 'ean_code' => $result[ 'ean_code' ],
-                'price' => number_format($result[ 'price' ],2,'.',''),
+                'price' => number_format( $result[ 'price' ], 2, '.', '' ),
                 'user_id' => $result[ 'user_id' ],
-                'title' => $result['name'],
-                'product_link' => $this->url->link( 'catalog/product/edit', 'user_token=' . $this->session->data[ 'user_token' ] . '&product_id=' .$result[ 'product_id' ]),
+                'title' => $result[ 'name' ],
+                'username' => $result[ 'username' ],
+                'product_link' => $this->url->link( 'catalog/product/edit', 'user_token=' . $this->session->data[ 'user_token' ] . '&product_id=' . $result[ 'product_id' ] ),
                 'date_added' => date( 'Y-m-d H:i:s', strtotime( $result[ 'date_added' ] ) ),
+                'date_added_title' => date( 'Y-m-d', strtotime( $result[ 'date_added' ] ) ),
             );
         }
-
 
         $import_total = $this->model_customer_customer->getTotalImports( $this->request->get[ 'customer_id' ] );
 
@@ -1461,17 +1466,62 @@ class ControllerCustomerCustomer extends Controller
 
         $this->load->model( 'customer/customer' );
 
-        $this->model_customer_customer->deleteImport( $this->request->get[ 'id' ] );
+        $this->model_customer_customer->deleteImport( $this->request->get[ 'id' ], $this->request->get[ 'customer_id' ] );
 
-        $this->response->redirect( $this->url->link( 'customer/customer/edit', 'user_token=' . $this->session->data[ 'user_token' ] . '&customer_id=' . $this->request->get[ 'customer_id' ], true ) );
+        $this->response->redirect( $this->url->link( 'customer/customer/edit', 'user_token=' . $this->session->data[ 'user_token' ] . '&customer_id=' . $this->request->get[ 'customer_id' ] . '#tab-import', true ) );
     }
 
-    public function select ()
+    public function editImport ()
     {
         $this->load->language( 'customer/customer' );
 
         $this->load->model( 'customer/customer' );
 
+        $this->model_customer_customer->editImport( $this->request->post[ 'id' ], $this->request->get[ 'customer_id' ], $this->request->post[ 'ean_code' ], $this->request->post[ 'price' ] );
+
+        $this->response->redirect( $this->url->link( 'customer/customer/edit', 'user_token=' . $this->session->data[ 'user_token' ] . '&customer_id=' . $this->request->get[ 'customer_id' ], true ) );
+    }
+
+    public function selectImport ()
+    {
+        $this->load->language( 'customer/customer' );
+
+        $this->load->model( 'customer/customer' );
+        $this->load->model( 'catalog/product' );
+
+        $file = pathinfo( $this->request->files[ 'select' ][ 'name' ] );
+
+        if ( $file[ "extension" ] == 'csv' ) {
+
+            $this->model_customer_customer->deleteAllCustomerImports( $this->request->get[ 'customer_id' ]);
+
+            $file_dir = $this->request->files[ 'select' ][ 'tmp_name' ];
+
+            $row = 0;
+
+            if ( ( $handle = fopen( $file_dir, "r" ) ) !== FALSE ) {
+                while (( $data = fgetcsv( $handle, 1000, "," ) ) !== FALSE) {
+                    $row++;
+                    if ( $row == 1 ) {
+                        continue;
+                    }
+                    $ean_code = $data[ 0 ];
+                    $price = $data[ 1 ];
+
+                    $product = $this->model_catalog_product->getProductByEan( $ean_code );
+
+                    if ( !empty( $product[ 'product_id' ] ) ) {
+
+                        $this->model_customer_customer->insertImport( $ean_code, $price, $product[ 'product_id' ], $this->request->get[ 'customer_id' ], $this->session->data[ 'user_id' ] );
+                    }
+
+                }
+                fclose( $handle );
+            }
+
+        }
+
+        $this->response->redirect( $this->url->link( 'customer/customer/edit', 'user_token=' . $this->session->data[ 'user_token' ] . '&customer_id=' . $this->request->get[ 'customer_id' ] . '#tab-import', true ) );
     }
 
     public function autocomplete ()

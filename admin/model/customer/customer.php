@@ -526,7 +526,7 @@ class ModelCustomerCustomer extends Model
 
     public function getImports ($customer_id, $start = 0, $limit = 10)
     {
-        $query = $this->db->query( "SELECT * FROM " . DB_PREFIX . "customer_import as t0 LEFT JOIN " . DB_PREFIX . "product_description AS t1 ON t0.product_id = t1.product_id and t1.language_id = 1 WHERE customer_id = '" . (int)$customer_id . "'  ORDER BY t0.id DESC LIMIT " . (int)$start . "," . (int)$limit );
+        $query = $this->db->query( "SELECT t0.*,t1.name,t2.username FROM " . DB_PREFIX . "customer_import as t0 LEFT JOIN " . DB_PREFIX . "product_description AS t1 ON t0.product_id = t1.product_id and t1.language_id = 1 LEFT JOIN " . DB_PREFIX . "user as t2 on t0.user_id = t2.user_id WHERE customer_id = '" . (int)$customer_id . "'  ORDER BY t0.id DESC LIMIT " . (int)$start . "," . (int)$limit );
 
         return $query->rows;
 
@@ -539,14 +539,26 @@ class ModelCustomerCustomer extends Model
         return $query->row[ 'total' ];
     }
 
-    public function deleteImport ($id)
+    public function insertImport ($ean_code, $price, $product_id, $customer_id, $user_id)
     {
-        $this->db->query( "DELETE FROM " . DB_PREFIX . "customer_import WHERE id = '" . (int)$id . "'" );
+        $this->db->query( "INSERT INTO " . DB_PREFIX . "customer_import SET ean_code = '" . $ean_code . "', price = '" . $price . "', product_id = '" . $product_id . "', customer_id = '" . $customer_id . "', user_id = '" . $user_id . "', date_added = NOW()" );
+    }
+
+    public function editImport ($id,$customer_id,$ean_code,$price)
+    {
+        $this->db->query( "UPDATE " . DB_PREFIX . "customer_import SET ean_code = '" . $ean_code . "', price = '" . $price . "' WHERE id = '" . $id . "' AND customer_id ='".$customer_id."'");
 
     }
 
-    public function selectCSV ($ean_code, $price, $product_id, $custumer_id, $user_id)
+    public function deleteImport ($id,$customer_id)
     {
-        $this->db->query( "INSERT INTO " . DB_PREFIX . "customer_import SET ean_code = '" . $ean_code . "', price = '" . $price . "', product_id = '" . $product_id . "', custumer_id = '" . $custumer_id . "', user_id = '" . $user_id . "', date_added = NOW()" );
+        $this->db->query( "DELETE FROM " . DB_PREFIX . "customer_import WHERE id = '" . $id . "'AND customer_id = '" . $customer_id . "'" );
+
     }
+
+    public function deleteAllCustomerImports($customer_id){
+        $this->db->query( "DELETE FROM " . DB_PREFIX . "customer_import WHERE customer_id = '" . $customer_id . "'" );
+    }
+
+
 }

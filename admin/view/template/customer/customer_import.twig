@@ -1,5 +1,5 @@
 <br><br>
-<p>{{ text_import_by }} {{ imports.date_added }} By <b>{{ imports.user_id }}</b></p>
+<p>{{ text_import_by }} {{ imports[0].date_added_title }} By <b>{{ imports[0].username }}</b></p>
 <br><br>
 <div class="table-responsive">
     <table class="table table-bordered table-hover">
@@ -21,10 +21,10 @@
                     <td class="text-right">{{ import.price }}</td>
                     <td class="text-right">{{ import.date_added }}</td>
                     <td class="text-right">
-                        <button data-toggle="tooltip" title="{{ button_edit }}" class="btn btn-primary">
+                        <button type="button" onclick data-id="{{ import.id }}" data-ean="{{ import.ean_code }}" data-price="{{ import.price }}" data-toggle="modal" data-target="#myModal" title="{{ button_edit }}" class="btn btn-primary importEdit">
                             <i class="fa fa-pencil"></i>
                         </button>
-                        <a href="{{ deleteImp }}&id={{ import.id }}#tab-import" data-toggle="tooltip"
+                        <a href="{{ deleteImp }}&id={{ import.id }}" data-toggle="tooltip"
                            title="{{ button_delete }}"
                            class="btn btn-danger"><i class="fa fa-trash-o"></i></a>
                     </td>
@@ -42,3 +42,17 @@
     <div class="col-sm-6 text-left">{{ pagination }}</div>
     <div class="col-sm-6 text-right">{{ results }}</div>
 </div>
+<script type="text/javascript"><!--
+    $(".importEdit").on('click', function(){
+        console.log('triggered');
+        $("#id").val( '' );
+        $("#ean_code").val( '' );
+        $("#price").val( '' );
+        var id = $(this).data('id');
+        var ean_code = $(this).data('ean');
+        var price = $(this).data('price');
+        $("#id").val( id );
+        $("#ean_code").val( ean_code );
+        $("#price").val( price );
+    });
+//--></script>
